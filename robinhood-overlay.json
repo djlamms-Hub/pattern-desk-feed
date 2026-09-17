@@ -1,0 +1,106 @@
+{
+  "capturedAt": "2026-09-17T16:01:46Z",
+  "note": "Live Robinhood overlay. This desk never places orders.",
+  "accounts": [
+    {
+      "id": "agentic",
+      "label": "Agentic",
+      "accountNumberMasked": "••••9327",
+      "tradable": true,
+      "analysisOnly": false,
+      "totalValue": 336.08,
+      "cash": 213.08,
+      "buyingPower": 213.08,
+      "optionsValue": 123.0,
+      "pendingDeposits": 0.0,
+      "positions": [
+        {
+          "optionId": "fa6b6955-b0ff-4d4d-8ca9-5b878730cfc7",
+          "symbol": "SOFI",
+          "right": "call",
+          "strike": 17.0,
+          "expiration": "2026-09-25",
+          "quantity": 3,
+          "side": "long",
+          "cost": 0.4067,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-09-16T13:38:57.677253Z",
+          "hardFloor": null,
+          "lastBid": 0.41,
+          "lastAsk": 0.42,
+          "lastMark": 0.415
+        }
+      ]
+    },
+    {
+      "id": "individual",
+      "label": "Individual",
+      "accountNumberMasked": "••••3364",
+      "tradable": false,
+      "analysisOnly": true,
+      "totalValue": 6323.2,
+      "cash": 2198.19,
+      "buyingPower": 2198.19,
+      "optionsValue": 4125.0,
+      "pendingDeposits": 0.0,
+      "positions": [
+        {
+          "optionId": "0d5390d4-4d83-4f2d-860c-426bb8e1481a",
+          "symbol": "WMT",
+          "right": "call",
+          "strike": 106.0,
+          "expiration": "2026-10-02",
+          "quantity": 5,
+          "side": "long",
+          "cost": 2.376,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-09-17T14:40:38.476982Z",
+          "hardFloor": null,
+          "lastBid": 2.22,
+          "lastAsk": 2.29,
+          "lastMark": 2.255
+        },
+        {
+          "optionId": "fa6b6955-b0ff-4d4d-8ca9-5b878730cfc7",
+          "symbol": "SOFI",
+          "right": "call",
+          "strike": 17.0,
+          "expiration": "2026-09-25",
+          "quantity": 70,
+          "side": "long",
+          "cost": 0.4643,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-09-16T13:31:57.707589Z",
+          "hardFloor": null,
+          "lastBid": 0.41,
+          "lastAsk": 0.42,
+          "lastMark": 0.415
+        },
+        {
+          "optionId": "abc8e398-49aa-410b-9978-02ee2f812756",
+          "symbol": "SOUN",
+          "right": "call",
+          "strike": 6.5,
+          "expiration": "2026-10-02",
+          "quantity": 8,
+          "side": "long",
+          "cost": 0.6,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-09-03T18:47:57.480465Z",
+          "hardFloor": null,
+          "lastBid": 0.13,
+          "lastAsk": 0.15,
+          "lastMark": 0.14
+        }
+      ]
+    }
+  ]
+}
