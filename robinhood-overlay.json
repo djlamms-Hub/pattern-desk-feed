@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-17T16:01:46Z",
+  "capturedAt": "2026-09-17T16:30:00Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -8,10 +8,10 @@
       "accountNumberMasked": "••••9327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 336.08,
+      "totalValue": 333.08,
       "cash": 213.08,
       "buyingPower": 213.08,
-      "optionsValue": 123.0,
+      "optionsValue": 120.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -28,9 +28,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-16T13:38:57.677253Z",
           "hardFloor": null,
-          "lastBid": 0.41,
-          "lastAsk": 0.42,
-          "lastMark": 0.415
+          "lastBid": 0.39,
+          "lastAsk": 0.4,
+          "lastMark": 0.395
         }
       ]
     },
@@ -40,10 +40,10 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 6323.2,
+      "totalValue": 6295.2,
       "cash": 2198.19,
       "buyingPower": 2198.19,
-      "optionsValue": 4125.0,
+      "optionsValue": 4097.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -60,9 +60,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-17T14:40:38.476982Z",
           "hardFloor": null,
-          "lastBid": 2.22,
-          "lastAsk": 2.29,
-          "lastMark": 2.255
+          "lastBid": 2.3,
+          "lastAsk": 2.43,
+          "lastMark": 2.365
         },
         {
           "optionId": "fa6b6955-b0ff-4d4d-8ca9-5b878730cfc7",
@@ -78,9 +78,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-16T13:31:57.707589Z",
           "hardFloor": null,
-          "lastBid": 0.41,
-          "lastAsk": 0.42,
-          "lastMark": 0.415
+          "lastBid": 0.39,
+          "lastAsk": 0.4,
+          "lastMark": 0.395
         },
         {
           "optionId": "abc8e398-49aa-410b-9978-02ee2f812756",
@@ -97,8 +97,8 @@
           "openedAt": "2026-09-03T18:47:57.480465Z",
           "hardFloor": null,
           "lastBid": 0.13,
-          "lastAsk": 0.15,
-          "lastMark": 0.14
+          "lastAsk": 0.14,
+          "lastMark": 0.135
         }
       ]
     }
