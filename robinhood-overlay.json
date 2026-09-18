@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-17T20:19:12Z",
+  "capturedAt": "2026-09-18T14:53:00Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -8,12 +8,30 @@
       "accountNumberMasked": "••••9327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 312.08,
-      "cash": 213.08,
-      "buyingPower": 213.08,
-      "optionsValue": 99.0,
+      "totalValue": 332.0,
+      "cash": 83.0,
+      "buyingPower": 83.0,
+      "optionsValue": 249.0,
       "pendingDeposits": 0.0,
       "positions": [
+        {
+          "optionId": "e1a40a16-a4c3-4c3a-be90-1912c2a12571",
+          "symbol": "RIVN",
+          "right": "call",
+          "strike": 15.0,
+          "expiration": "2026-10-02",
+          "quantity": 2,
+          "side": "long",
+          "cost": 0.65,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-09-18T14:41:44.760333Z",
+          "hardFloor": null,
+          "lastBid": 0.67,
+          "lastAsk": 0.7,
+          "lastMark": 0.685
+        },
         {
           "optionId": "fa6b6955-b0ff-4d4d-8ca9-5b878730cfc7",
           "symbol": "SOFI",
@@ -28,9 +46,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-16T13:38:57.677253Z",
           "hardFloor": null,
-          "lastBid": 0.32,
-          "lastAsk": 0.33,
-          "lastMark": 0.325
+          "lastBid": 0.36,
+          "lastAsk": 0.37,
+          "lastMark": 0.365
         }
       ]
     },
@@ -40,29 +58,47 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 5831.16,
-      "cash": 1971.15,
-      "buyingPower": 1971.15,
-      "optionsValue": 3860.0,
+      "totalValue": 7626.54,
+      "cash": 450.53,
+      "buyingPower": 450.53,
+      "optionsValue": 7176.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
-          "optionId": "0d5390d4-4d83-4f2d-860c-426bb8e1481a",
-          "symbol": "WMT",
+          "optionId": "b2ea01c4-70f1-430d-9c43-b6c6774b5cde",
+          "symbol": "TSLA",
           "right": "call",
-          "strike": 106.0,
-          "expiration": "2026-10-02",
-          "quantity": 6,
+          "strike": 362.5,
+          "expiration": "2026-09-23",
+          "quantity": 2,
           "side": "long",
-          "cost": 2.3583,
+          "cost": 7.2,
           "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-09-17T14:40:38.476982Z",
+          "pendingSell": 2,
+          "pendingSellLimit": 11.15,
+          "openedAt": "2026-09-18T14:25:40.133999Z",
           "hardFloor": null,
-          "lastBid": 2.28,
-          "lastAsk": 2.53,
-          "lastMark": 2.405
+          "lastBid": 9.8,
+          "lastAsk": 10.0,
+          "lastMark": 9.9
+        },
+        {
+          "optionId": "37162a95-b7c1-4a07-8e80-a027e939031f",
+          "symbol": "TSLA",
+          "right": "call",
+          "strike": 365.0,
+          "expiration": "2026-09-23",
+          "quantity": 3,
+          "side": "long",
+          "cost": 6.8667,
+          "multiplier": 100,
+          "pendingSell": 3,
+          "pendingSellLimit": 9.6,
+          "openedAt": "2026-09-18T13:35:10.548691Z",
+          "hardFloor": null,
+          "lastBid": 8.3,
+          "lastAsk": 8.45,
+          "lastMark": 8.375
         },
         {
           "optionId": "fa6b6955-b0ff-4d4d-8ca9-5b878730cfc7",
@@ -78,9 +114,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-16T13:31:57.707589Z",
           "hardFloor": null,
-          "lastBid": 0.32,
-          "lastAsk": 0.33,
-          "lastMark": 0.325
+          "lastBid": 0.36,
+          "lastAsk": 0.37,
+          "lastMark": 0.365
         },
         {
           "optionId": "abc8e398-49aa-410b-9978-02ee2f812756",
@@ -96,9 +132,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-03T18:47:57.480465Z",
           "hardFloor": null,
-          "lastBid": 0.12,
-          "lastAsk": 0.14,
-          "lastMark": 0.13
+          "lastBid": 0.08,
+          "lastAsk": 0.09,
+          "lastMark": 0.085
         }
       ]
     }
