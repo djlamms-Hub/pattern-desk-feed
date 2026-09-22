@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-22T17:37:00Z",
+  "capturedAt": "2026-09-22T18:31:00Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -8,10 +8,10 @@
       "accountNumberMasked": "••••9327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 531.58,
+      "totalValue": 523.58,
       "cash": 447.58,
       "buyingPower": 447.58,
-      "optionsValue": 84.0,
+      "optionsValue": 76.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -28,9 +28,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-22T17:01:17.736114Z",
           "hardFloor": null,
-          "lastBid": 0.41,
-          "lastAsk": 0.42,
-          "lastMark": 0.415
+          "lastBid": 0.37,
+          "lastAsk": 0.39,
+          "lastMark": 0.38
         }
       ]
     },
@@ -40,65 +40,47 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 14435.58,
-      "cash": 9190.57,
-      "buyingPower": 8610.17,
-      "optionsValue": 5245.0,
+      "totalValue": 14779.64,
+      "cash": 12879.63,
+      "buyingPower": 12329.23,
+      "optionsValue": 1900.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
-          "optionId": "12b55d47-cb80-4f67-922f-9df510c8a74f",
-          "symbol": "PLTR",
+          "optionId": "81bb6f19-4c1d-4e7f-9e10-07dee37afa40",
+          "symbol": "IBM",
           "right": "call",
-          "strike": 182.5,
+          "strike": 230.0,
           "expiration": "2026-10-02",
-          "quantity": 4,
-          "side": "long",
-          "cost": 6.35,
-          "multiplier": 100,
-          "pendingSell": 4,
-          "pendingSellLimit": 9.1,
-          "openedAt": "2026-09-22T15:42:14.442636Z",
-          "hardFloor": null,
-          "lastBid": 6.85,
-          "lastAsk": 7.05,
-          "lastMark": 6.95
-        },
-        {
-          "optionId": "ff906b66-1549-4f4b-ae13-1fc72f3328e2",
-          "symbol": "TSLA",
-          "right": "call",
-          "strike": 375.0,
-          "expiration": "2026-09-25",
           "quantity": 2,
           "side": "long",
-          "cost": 6.4,
+          "cost": 6.25,
           "multiplier": 100,
           "pendingSell": 0,
           "pendingSellLimit": null,
-          "openedAt": "2026-09-22T15:11:31.537048Z",
+          "openedAt": "2026-09-22T18:01:29.716219Z",
           "hardFloor": null,
-          "lastBid": 7.65,
-          "lastAsk": 7.8,
-          "lastMark": 7.725
+          "lastBid": 6.2,
+          "lastAsk": 6.7,
+          "lastMark": 6.45
         },
         {
-          "optionId": "1b0608fe-9934-4391-8175-8281e98a9d22",
-          "symbol": "TSLA",
+          "optionId": "e06fc5d4-a0fa-4384-b537-8d950923db9d",
+          "symbol": "SOFI",
           "right": "call",
-          "strike": 372.5,
-          "expiration": "2026-09-25",
-          "quantity": 1,
+          "strike": 17.0,
+          "expiration": "2026-10-02",
+          "quantity": 10,
           "side": "long",
-          "cost": 7.3,
+          "cost": 0.6,
           "multiplier": 100,
-          "pendingSell": 1,
-          "pendingSellLimit": 12.3,
-          "openedAt": "2026-09-21T17:04:27.330264Z",
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-09-22T17:09:42.224815Z",
           "hardFloor": null,
-          "lastBid": 9.2,
-          "lastAsk": 9.35,
-          "lastMark": 9.275
+          "lastBid": 0.6,
+          "lastAsk": 0.62,
+          "lastMark": 0.61
         }
       ]
     }
