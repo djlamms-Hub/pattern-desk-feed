@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-23T14:34:00Z",
+  "capturedAt": "2026-09-23T16:37:38Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -8,10 +8,10 @@
       "accountNumberMasked": "••••9327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 496.54,
+      "totalValue": 484.54,
       "cash": 412.54,
       "buyingPower": 412.54,
-      "optionsValue": 84.0,
+      "optionsValue": 72.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -28,9 +28,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-22T17:01:17.736114Z",
           "hardFloor": null,
-          "lastBid": 0.27,
-          "lastAsk": 0.29,
-          "lastMark": 0.28
+          "lastBid": 0.23,
+          "lastAsk": 0.24,
+          "lastMark": 0.235
         }
       ]
     },
@@ -40,10 +40,10 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 12718.70,
-      "cash": 11308.69,
-      "buyingPower": 11308.69,
-      "optionsValue": 1410.0,
+      "totalValue": 12511.58,
+      "cash": 8973.57,
+      "buyingPower": 8973.57,
+      "optionsValue": 3538.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -60,9 +60,63 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-22T17:09:42.224815Z",
           "hardFloor": null,
-          "lastBid": 0.45,
-          "lastAsk": 0.48,
-          "lastMark": 0.465
+          "lastBid": 0.39,
+          "lastAsk": 0.4,
+          "lastMark": 0.395
+        },
+        {
+          "optionId": "e66cd1ef-29f2-466d-bdf2-fbd60096220a",
+          "symbol": "SPCX",
+          "right": "call",
+          "strike": 150.0,
+          "expiration": "2026-10-09",
+          "quantity": 1,
+          "side": "long",
+          "cost": 7.35,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-09-23T15:34:10.832578Z",
+          "hardFloor": null,
+          "lastBid": 7.0,
+          "lastAsk": 7.15,
+          "lastMark": 7.075
+        },
+        {
+          "optionId": "cc6cf399-749b-4566-ad0b-59b5cd7d7faa",
+          "symbol": "ARM",
+          "right": "call",
+          "strike": 325.0,
+          "expiration": "2026-09-25",
+          "quantity": 1,
+          "side": "long",
+          "cost": 8.55,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-09-23T15:54:54.322869Z",
+          "hardFloor": null,
+          "lastBid": 8.3,
+          "lastAsk": 9.0,
+          "lastMark": 8.65
+        },
+        {
+          "optionId": "9270ec2d-39e1-4aa2-a974-42c38f1cd08b",
+          "symbol": "TSLA",
+          "right": "call",
+          "strike": 377.5,
+          "expiration": "2026-09-28",
+          "quantity": 1,
+          "side": "long",
+          "cost": 7.45,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-09-23T16:26:09.293331Z",
+          "hardFloor": null,
+          "lastBid": 7.55,
+          "lastAsk": 7.7,
+          "lastMark": 7.625
         }
       ]
     }
