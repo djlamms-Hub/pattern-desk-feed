@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-24T19:30:30Z",
+  "capturedAt": "2026-09-24T20:08:00Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -8,23 +8,10 @@
       "accountNumberMasked": "••••9327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 454.4,
-      "cash": 454.4,
-      "buyingPower": 454.4,
-      "optionsValue": 0.0,
-      "pendingDeposits": 0.0,
-      "positions": []
-    },
-    {
-      "id": "individual",
-      "label": "Individual",
-      "accountNumberMasked": "••••3364",
-      "tradable": false,
-      "analysisOnly": true,
-      "totalValue": 14280.84,
-      "cash": 9800.83,
-      "buyingPower": 8300.75,
-      "optionsValue": 4480.0,
+      "totalValue": 420.32,
+      "cash": 24.32,
+      "buyingPower": 24.32,
+      "optionsValue": 396.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -33,10 +20,38 @@
           "expiry": "2026-10-09",
           "strike": 108.0,
           "right": "call",
-          "qty": 20.0,
+          "qty": 2.0,
           "type": "long",
-          "cost": 2.255,
-          "lastMark": 2.235,
+          "cost": 2.15,
+          "lastMark": 1.98,
+          "multiplier": 100.0,
+          "pendingSell": 0.0,
+          "pendingSellLimit": null
+        }
+      ]
+    },
+    {
+      "id": "individual",
+      "label": "Individual",
+      "accountNumberMasked": "••••3364",
+      "tradable": false,
+      "analysisOnly": true,
+      "totalValue": 13750.64,
+      "cash": 8800.63,
+      "buyingPower": 7300.55,
+      "optionsValue": 4950.0,
+      "pendingDeposits": 0.0,
+      "positions": [
+        {
+          "optionId": "11f0408e-3149-4928-9bbe-ffe17343ac42",
+          "ticker": "WMT",
+          "expiry": "2026-10-09",
+          "strike": 108.0,
+          "right": "call",
+          "qty": 25.0,
+          "type": "long",
+          "cost": 2.204,
+          "lastMark": 1.98,
           "multiplier": 100.0,
           "pendingSell": 0.0,
           "pendingSellLimit": null
