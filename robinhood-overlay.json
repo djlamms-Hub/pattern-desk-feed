@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-24T18:30:00Z",
+  "capturedAt": "2026-09-24T19:30:30Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,12 +21,27 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 14311.64,
-      "cash": 14311.63,
-      "buyingPower": 14311.63,
-      "optionsValue": 0.0,
+      "totalValue": 14280.84,
+      "cash": 9800.83,
+      "buyingPower": 8300.75,
+      "optionsValue": 4480.0,
       "pendingDeposits": 0.0,
-      "positions": []
+      "positions": [
+        {
+          "optionId": "11f0408e-3149-4928-9bbe-ffe17343ac42",
+          "ticker": "WMT",
+          "expiry": "2026-10-09",
+          "strike": 108.0,
+          "right": "call",
+          "qty": 20.0,
+          "type": "long",
+          "cost": 2.255,
+          "lastMark": 2.235,
+          "multiplier": 100.0,
+          "pendingSell": 0.0,
+          "pendingSellLimit": null
+        }
+      ]
     }
   ]
 }
