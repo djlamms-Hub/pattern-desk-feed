@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-25T14:31:00Z",
+  "capturedAt": "2026-09-25T15:30:30Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -8,10 +8,10 @@
       "accountNumberMasked": "••••9327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 356.32,
+      "totalValue": 362.32,
       "cash": 24.32,
       "buyingPower": 24.32,
-      "optionsValue": 332.0,
+      "optionsValue": 338.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -23,7 +23,7 @@
           "qty": 2.0,
           "type": "long",
           "cost": 2.15,
-          "lastMark": 1.66,
+          "lastMark": 1.68,
           "multiplier": 100.0,
           "pendingSell": 0.0,
           "pendingSellLimit": null
@@ -36,12 +36,26 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 11322.36,
-      "cash": 2695.35,
-      "buyingPower": 2145.31,
-      "optionsValue": 8627.0,
+      "totalValue": 11392.28,
+      "cash": 1335.27,
+      "buyingPower": 1335.27,
+      "optionsValue": 10057.0,
       "pendingDeposits": 0.0,
       "positions": [
+        {
+          "optionId": "b76f7459-a618-4981-918e-fc8bbaceb5ad",
+          "ticker": "TSLA",
+          "expiry": "2026-09-30",
+          "strike": 370.0,
+          "right": "call",
+          "qty": 2.0,
+          "type": "long",
+          "cost": 6.8,
+          "lastMark": 6.8,
+          "multiplier": 100.0,
+          "pendingSell": 2.0,
+          "pendingSellLimit": 12.75
+        },
         {
           "optionId": "bd73cc61-9a84-46e4-b20a-11799561731a",
           "ticker": "NBIS",
@@ -51,7 +65,7 @@
           "qty": 1.0,
           "type": "long",
           "cost": 9.8,
-          "lastMark": 9.375,
+          "lastMark": 10.175,
           "multiplier": 100.0,
           "pendingSell": 0.0,
           "pendingSellLimit": null
@@ -65,7 +79,7 @@
           "qty": 2.0,
           "type": "long",
           "cost": 6.125,
-          "lastMark": 5.75,
+          "lastMark": 5.8,
           "multiplier": 100.0,
           "pendingSell": 2.0,
           "pendingSellLimit": 8.0
@@ -79,7 +93,7 @@
           "qty": 4.0,
           "type": "long",
           "cost": 7.25,
-          "lastMark": 5.975,
+          "lastMark": 5.6,
           "multiplier": 100.0,
           "pendingSell": 4.0,
           "pendingSellLimit": 11.35
@@ -93,7 +107,7 @@
           "qty": 25.0,
           "type": "long",
           "cost": 2.204,
-          "lastMark": 1.66,
+          "lastMark": 1.68,
           "multiplier": 100.0,
           "pendingSell": 0.0,
           "pendingSellLimit": null
