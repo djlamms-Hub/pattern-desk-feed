@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-28T16:40:30Z",
+  "capturedAt": "2026-09-28T17:40:45Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -40,10 +40,10 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 8871.08,
+      "totalValue": 8728.08,
       "cash": 20.07,
       "buyingPower": 20.07,
-      "optionsValue": 8851.0,
+      "optionsValue": 8708.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -60,9 +60,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-28T13:34:03.015923Z",
           "hardFloor": null,
-          "lastBid": 5.75,
-          "lastAsk": 5.85,
-          "lastMark": 5.8
+          "lastBid": 5.35,
+          "lastAsk": 5.45,
+          "lastMark": 5.4
         },
         {
           "optionId": "b76f7459-a618-4981-918e-fc8bbaceb5ad",
@@ -78,9 +78,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-25T14:34:40.907110Z",
           "hardFloor": null,
-          "lastBid": 1.53,
-          "lastAsk": 1.55,
-          "lastMark": 1.54
+          "lastBid": 1.32,
+          "lastAsk": 1.35,
+          "lastMark": 1.335
         },
         {
           "optionId": "32579c6a-cbc5-4fdf-9ec9-a44d2bbe57f2",
@@ -96,9 +96,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-25T13:33:58.518560Z",
           "hardFloor": null,
-          "lastBid": 3.6,
-          "lastAsk": 3.7,
-          "lastMark": 3.65
+          "lastBid": 3.9,
+          "lastAsk": 4.0,
+          "lastMark": 3.95
         },
         {
           "optionId": "65a837e1-f4a1-4197-81c7-2ecc967290df",
@@ -114,9 +114,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-25T13:33:17.035090Z",
           "hardFloor": null,
-          "lastBid": 1.11,
-          "lastAsk": 1.13,
-          "lastMark": 1.12
+          "lastBid": 0.96,
+          "lastAsk": 0.99,
+          "lastMark": 0.975
         },
         {
           "optionId": "11f0408e-3149-4928-9bbe-ffe17343ac42",
