@@ -1,17 +1,17 @@
 {
-  "capturedAt": "2026-10-01T14:40:45Z",
+  "capturedAt": "2026-10-01T15:40:29Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
       "id": "agentic",
       "label": "Agentic",
-      "accountNumberMasked": "••••9327",
+      "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 98.32,
+      "totalValue": 112.32,
       "cash": 24.32,
       "buyingPower": 24.32,
-      "optionsValue": 74.0,
+      "optionsValue": 88.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -28,22 +28,22 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-24T19:36:51.176004Z",
           "hardFloor": null,
-          "lastBid": 0.35,
-          "lastAsk": 0.41,
-          "lastMark": 0.38
+          "lastBid": 0.43,
+          "lastAsk": 0.45,
+          "lastMark": 0.44
         }
       ]
     },
     {
       "id": "individual",
       "label": "Individual",
-      "accountNumberMasked": "••••3364",
+      "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 1710.19,
+      "totalValue": 1993.19,
       "cash": 22.18,
       "buyingPower": 22.18,
-      "optionsValue": 1688.0,
+      "optionsValue": 1971.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -60,9 +60,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-30T19:51:45.220710Z",
           "hardFloor": null,
-          "lastBid": 1.81,
-          "lastAsk": 1.91,
-          "lastMark": 1.86
+          "lastBid": 2.02,
+          "lastAsk": 2.05,
+          "lastMark": 2.035
         },
         {
           "optionId": "4f3a9e53-0cea-4ab6-8969-0288902887d3",
@@ -78,9 +78,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-29T15:10:20.221168Z",
           "hardFloor": null,
-          "lastBid": 1.32,
-          "lastAsk": 1.37,
-          "lastMark": 1.345
+          "lastBid": 1.45,
+          "lastAsk": 1.52,
+          "lastMark": 1.485
         },
         {
           "optionId": "11f0408e-3149-4928-9bbe-ffe17343ac42",
@@ -96,9 +96,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-24T19:00:25.344701Z",
           "hardFloor": null,
-          "lastBid": 0.35,
-          "lastAsk": 0.41,
-          "lastMark": 0.38
+          "lastBid": 0.43,
+          "lastAsk": 0.45,
+          "lastMark": 0.44
         }
       ]
     }
