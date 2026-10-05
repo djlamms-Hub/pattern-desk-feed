@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-05T19:54:20Z",
+  "capturedAt": "2026-10-05T20:05:40Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,10 +21,10 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 848.74,
+      "totalValue": 865.74,
       "cash": 580.73,
       "buyingPower": 580.73,
-      "optionsValue": 268.0,
+      "optionsValue": 285.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -59,9 +59,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-09-30T19:51:45.220710Z",
           "hardFloor": null,
-          "lastBid": 1.51,
-          "lastAsk": 1.58,
-          "lastMark": 1.545
+          "lastBid": 1.66,
+          "lastAsk": 1.75,
+          "lastMark": 1.705
         }
       ]
     }
