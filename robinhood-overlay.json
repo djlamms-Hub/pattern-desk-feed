@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-06T14:40:42Z",
+  "capturedAt": "2026-10-06T15:41:00Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,30 +21,12 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 912.92,
-      "cash": 447.91,
-      "buyingPower": 447.91,
-      "optionsValue": 465.0,
+      "totalValue": 951.67,
+      "cash": 357.66,
+      "buyingPower": 357.66,
+      "optionsValue": 594.0,
       "pendingDeposits": 0.0,
       "positions": [
-        {
-          "optionId": "837837f4-efa0-41e2-a702-200dbe4ea9cd",
-          "symbol": "IBIT",
-          "right": "call",
-          "strike": 50.0,
-          "expiration": "2026-10-12",
-          "quantity": 4,
-          "side": "long",
-          "cost": 0.34,
-          "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-10-06T14:23:28.084373Z",
-          "hardFloor": null,
-          "lastBid": 0.33,
-          "lastAsk": 0.34,
-          "lastMark": 0.335
-        },
         {
           "optionId": "cfc28d63-2c4f-41de-b09f-99f470b32ba5",
           "symbol": "DRAM",
@@ -59,9 +41,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-06T14:19:26.943015Z",
           "hardFloor": null,
-          "lastBid": 0.14,
-          "lastAsk": 0.16,
-          "lastMark": 0.15
+          "lastBid": 0.15,
+          "lastAsk": 0.17,
+          "lastMark": 0.16
         },
         {
           "optionId": "ecefab54-6ad6-4fdc-938c-8beec92f513a",
@@ -77,9 +59,27 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-06T14:03:36.659032Z",
           "hardFloor": null,
-          "lastBid": 0.24,
-          "lastAsk": 0.26,
-          "lastMark": 0.25
+          "lastBid": 0.25,
+          "lastAsk": 0.27,
+          "lastMark": 0.26
+        },
+        {
+          "optionId": "57648ea3-5b28-42bb-95c6-5a98858a8778",
+          "symbol": "SMCI",
+          "right": "call",
+          "strike": 45.0,
+          "expiration": "2026-10-16",
+          "quantity": 2,
+          "side": "long",
+          "cost": 1.35,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-10-06T15:01:52.215569Z",
+          "hardFloor": null,
+          "lastBid": 1.25,
+          "lastAsk": 1.29,
+          "lastMark": 1.27
         },
         {
           "optionId": "acb5a6db-39e2-4a23-9991-1e31efddeaaf",
@@ -92,12 +92,12 @@
           "cost": 0.59,
           "multiplier": 100,
           "pendingSell": 2,
-          "pendingSellLimit": 0.6,
+          "pendingSellLimit": 0.66,
           "openedAt": "2026-10-05T19:42:43.671284Z",
           "hardFloor": null,
-          "lastBid": 0.54,
+          "lastBid": 0.51,
           "lastAsk": 0.6,
-          "lastMark": 0.57
+          "lastMark": 0.555
         }
       ]
     }
