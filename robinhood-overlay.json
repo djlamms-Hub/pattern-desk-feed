@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-06T16:40:30Z",
+  "capturedAt": "2026-10-06T17:40:39Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,66 +21,12 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 939.67,
-      "cash": 357.66,
-      "buyingPower": 357.66,
-      "optionsValue": 582.0,
+      "totalValue": 951.12,
+      "cash": 849.11,
+      "buyingPower": 849.11,
+      "optionsValue": 102.0,
       "pendingDeposits": 0.0,
       "positions": [
-        {
-          "optionId": "cfc28d63-2c4f-41de-b09f-99f470b32ba5",
-          "symbol": "DRAM",
-          "right": "call",
-          "strike": 65.0,
-          "expiration": "2026-10-12",
-          "quantity": 6,
-          "side": "long",
-          "cost": 0.17,
-          "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-10-06T14:19:26.943015Z",
-          "hardFloor": null,
-          "lastBid": 0.14,
-          "lastAsk": 0.15,
-          "lastMark": 0.145
-        },
-        {
-          "optionId": "ecefab54-6ad6-4fdc-938c-8beec92f513a",
-          "symbol": "MARA",
-          "right": "call",
-          "strike": 12.0,
-          "expiration": "2026-10-16",
-          "quantity": 5,
-          "side": "long",
-          "cost": 0.3,
-          "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-10-06T14:03:36.659032Z",
-          "hardFloor": null,
-          "lastBid": 0.23,
-          "lastAsk": 0.24,
-          "lastMark": 0.235
-        },
-        {
-          "optionId": "57648ea3-5b28-42bb-95c6-5a98858a8778",
-          "symbol": "SMCI",
-          "right": "call",
-          "strike": 45.0,
-          "expiration": "2026-10-16",
-          "quantity": 2,
-          "side": "long",
-          "cost": 1.35,
-          "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-10-06T15:01:52.215569Z",
-          "hardFloor": null,
-          "lastBid": 1.28,
-          "lastAsk": 1.33,
-          "lastMark": 1.305
-        },
         {
           "optionId": "acb5a6db-39e2-4a23-9991-1e31efddeaaf",
           "symbol": "LYFT",
@@ -92,12 +38,12 @@
           "cost": 0.59,
           "multiplier": 100,
           "pendingSell": 2,
-          "pendingSellLimit": 0.66,
+          "pendingSellLimit": 0.6,
           "openedAt": "2026-10-05T19:42:43.671284Z",
           "hardFloor": null,
-          "lastBid": 0.5,
-          "lastAsk": 0.59,
-          "lastMark": 0.545
+          "lastBid": 0.47,
+          "lastAsk": 0.55,
+          "lastMark": 0.51
         }
       ]
     }
