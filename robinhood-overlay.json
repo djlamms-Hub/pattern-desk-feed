@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-06T15:41:00Z",
+  "capturedAt": "2026-10-06T16:40:30Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,10 +21,10 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 951.67,
+      "totalValue": 939.67,
       "cash": 357.66,
       "buyingPower": 357.66,
-      "optionsValue": 594.0,
+      "optionsValue": 582.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -41,9 +41,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-06T14:19:26.943015Z",
           "hardFloor": null,
-          "lastBid": 0.15,
-          "lastAsk": 0.17,
-          "lastMark": 0.16
+          "lastBid": 0.14,
+          "lastAsk": 0.15,
+          "lastMark": 0.145
         },
         {
           "optionId": "ecefab54-6ad6-4fdc-938c-8beec92f513a",
@@ -59,9 +59,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-06T14:03:36.659032Z",
           "hardFloor": null,
-          "lastBid": 0.25,
-          "lastAsk": 0.27,
-          "lastMark": 0.26
+          "lastBid": 0.23,
+          "lastAsk": 0.24,
+          "lastMark": 0.235
         },
         {
           "optionId": "57648ea3-5b28-42bb-95c6-5a98858a8778",
@@ -77,9 +77,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-06T15:01:52.215569Z",
           "hardFloor": null,
-          "lastBid": 1.25,
-          "lastAsk": 1.29,
-          "lastMark": 1.27
+          "lastBid": 1.28,
+          "lastAsk": 1.33,
+          "lastMark": 1.305
         },
         {
           "optionId": "acb5a6db-39e2-4a23-9991-1e31efddeaaf",
@@ -95,9 +95,9 @@
           "pendingSellLimit": 0.66,
           "openedAt": "2026-10-05T19:42:43.671284Z",
           "hardFloor": null,
-          "lastBid": 0.51,
-          "lastAsk": 0.6,
-          "lastMark": 0.555
+          "lastBid": 0.5,
+          "lastAsk": 0.59,
+          "lastMark": 0.545
         }
       ]
     }
