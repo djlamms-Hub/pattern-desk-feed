@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-07T17:40:40Z",
+  "capturedAt": "2026-10-07T18:41:15Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -8,10 +8,10 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 55.19,
+      "totalValue": 54.19,
       "cash": 8.19,
       "buyingPower": 8.19,
-      "optionsValue": 47.0,
+      "optionsValue": 46.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -29,8 +29,8 @@
           "openedAt": "2026-10-07T14:10:26.701091Z",
           "hardFloor": null,
           "lastBid": 0.45,
-          "lastAsk": 0.48,
-          "lastMark": 0.465
+          "lastAsk": 0.47,
+          "lastMark": 0.46
         }
       ]
     },
@@ -40,10 +40,10 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 970.75,
+      "totalValue": 975.75,
       "cash": 693.74,
       "buyingPower": 693.74,
-      "optionsValue": 277.0,
+      "optionsValue": 282.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -60,9 +60,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-07T14:06:41.089037Z",
           "hardFloor": null,
-          "lastBid": 0.19,
-          "lastAsk": 0.2,
-          "lastMark": 0.195
+          "lastBid": 0.18,
+          "lastAsk": 0.19,
+          "lastMark": 0.185
         },
         {
           "optionId": "b263b066-1bfc-408e-85ed-3d5ea39a483c",
@@ -79,8 +79,8 @@
           "openedAt": "2026-10-07T13:51:33.454950Z",
           "hardFloor": null,
           "lastBid": 0.45,
-          "lastAsk": 0.48,
-          "lastMark": 0.465
+          "lastAsk": 0.47,
+          "lastMark": 0.46
         },
         {
           "optionId": "acb5a6db-39e2-4a23-9991-1e31efddeaaf",
@@ -96,9 +96,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-05T19:42:43.671284Z",
           "hardFloor": null,
-          "lastBid": 0.45,
-          "lastAsk": 0.5,
-          "lastMark": 0.475
+          "lastBid": 0.49,
+          "lastAsk": 0.56,
+          "lastMark": 0.525
         }
       ]
     }
