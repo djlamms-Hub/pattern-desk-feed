@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-07T19:40:40Z",
+  "capturedAt": "2026-10-07T20:05:00Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -8,31 +8,12 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 56.19,
-      "cash": 8.19,
-      "buyingPower": 8.19,
-      "optionsValue": 48.0,
+      "totalValue": 61.14,
+      "cash": 61.14,
+      "buyingPower": 61.14,
+      "optionsValue": 0.0,
       "pendingDeposits": 0.0,
-      "positions": [
-        {
-          "optionId": "b263b066-1bfc-408e-85ed-3d5ea39a483c",
-          "symbol": "TSLA",
-          "right": "call",
-          "strike": 400.0,
-          "expiration": "2026-10-12",
-          "quantity": 1,
-          "side": "long",
-          "cost": 0.44,
-          "multiplier": 100,
-          "pendingSell": 1,
-          "pendingSellLimit": 0.78,
-          "openedAt": "2026-10-07T14:10:26.701091Z",
-          "hardFloor": null,
-          "lastBid": 0.47,
-          "lastAsk": 0.49,
-          "lastMark": 0.48
-        }
-      ]
+      "positions": []
     },
     {
       "id": "individual",
@@ -40,10 +21,10 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 983.75,
+      "totalValue": 980.75,
       "cash": 693.74,
       "buyingPower": 693.74,
-      "optionsValue": 290.0,
+      "optionsValue": 287.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -56,13 +37,13 @@
           "side": "long",
           "cost": 0.205,
           "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
+          "pendingSell": 2,
+          "pendingSellLimit": 0.24,
           "openedAt": "2026-10-07T14:06:41.089037Z",
           "hardFloor": null,
-          "lastBid": 0.19,
-          "lastAsk": 0.2,
-          "lastMark": 0.195
+          "lastBid": 0.2,
+          "lastAsk": 0.21,
+          "lastMark": 0.205
         },
         {
           "optionId": "b263b066-1bfc-408e-85ed-3d5ea39a483c",
@@ -78,9 +59,9 @@
           "pendingSellLimit": 0.94,
           "openedAt": "2026-10-07T13:51:33.454950Z",
           "hardFloor": null,
-          "lastBid": 0.47,
-          "lastAsk": 0.49,
-          "lastMark": 0.48
+          "lastBid": 0.5,
+          "lastAsk": 0.51,
+          "lastMark": 0.505
         },
         {
           "optionId": "acb5a6db-39e2-4a23-9991-1e31efddeaaf",
@@ -96,9 +77,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-05T19:42:43.671284Z",
           "hardFloor": null,
-          "lastBid": 0.51,
-          "lastAsk": 0.55,
-          "lastMark": 0.53
+          "lastBid": 0.41,
+          "lastAsk": 0.5,
+          "lastMark": 0.455
         }
       ]
     }
