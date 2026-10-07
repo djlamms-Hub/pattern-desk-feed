@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-07T16:41:20Z",
+  "capturedAt": "2026-10-07T17:40:40Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -8,10 +8,10 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 51.19,
+      "totalValue": 55.19,
       "cash": 8.19,
       "buyingPower": 8.19,
-      "optionsValue": 43.0,
+      "optionsValue": 47.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -28,9 +28,9 @@
           "pendingSellLimit": 0.78,
           "openedAt": "2026-10-07T14:10:26.701091Z",
           "hardFloor": null,
-          "lastBid": 0.42,
-          "lastAsk": 0.43,
-          "lastMark": 0.425
+          "lastBid": 0.45,
+          "lastAsk": 0.48,
+          "lastMark": 0.465
         }
       ]
     },
@@ -40,10 +40,10 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 952.75,
+      "totalValue": 970.75,
       "cash": 693.74,
       "buyingPower": 693.74,
-      "optionsValue": 259.0,
+      "optionsValue": 277.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -60,9 +60,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-07T14:06:41.089037Z",
           "hardFloor": null,
-          "lastBid": 0.17,
-          "lastAsk": 0.18,
-          "lastMark": 0.175
+          "lastBid": 0.19,
+          "lastAsk": 0.2,
+          "lastMark": 0.195
         },
         {
           "optionId": "b263b066-1bfc-408e-85ed-3d5ea39a483c",
@@ -78,9 +78,9 @@
           "pendingSellLimit": 0.94,
           "openedAt": "2026-10-07T13:51:33.454950Z",
           "hardFloor": null,
-          "lastBid": 0.42,
-          "lastAsk": 0.43,
-          "lastMark": 0.425
+          "lastBid": 0.45,
+          "lastAsk": 0.48,
+          "lastMark": 0.465
         },
         {
           "optionId": "acb5a6db-39e2-4a23-9991-1e31efddeaaf",
@@ -96,9 +96,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-05T19:42:43.671284Z",
           "hardFloor": null,
-          "lastBid": 0.43,
+          "lastBid": 0.45,
           "lastAsk": 0.5,
-          "lastMark": 0.465
+          "lastMark": 0.475
         }
       ]
     }
