@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-08T20:06:15Z",
+  "capturedAt": "2026-10-09T13:42:30Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -8,10 +8,10 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
       "tradable": true,
       "analysisOnly": false,
-      "totalValue": 53.1,
+      "totalValue": 41.1,
       "cash": 29.1,
       "buyingPower": 29.1,
-      "optionsValue": 24.0,
+      "optionsValue": 12.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -28,9 +28,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-08T14:54:52.019042Z",
           "hardFloor": null,
-          "lastBid": 0.16,
-          "lastAsk": 0.32,
-          "lastMark": 0.24
+          "lastBid": 0.11,
+          "lastAsk": 0.13,
+          "lastMark": 0.12
         }
       ]
     },
@@ -40,10 +40,10 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 823.62,
-      "cash": 662.61,
-      "buyingPower": 662.61,
-      "optionsValue": 161.0,
+      "totalValue": 949.4,
+      "cash": 834.39,
+      "buyingPower": 834.39,
+      "optionsValue": 115.0,
       "pendingDeposits": 0.0,
       "positions": [
         {
@@ -60,45 +60,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-08T13:44:10.864257Z",
           "hardFloor": null,
-          "lastBid": 0.92,
-          "lastAsk": 1.24,
-          "lastMark": 1.08
-        },
-        {
-          "optionId": "dd4b704b-490c-4159-b225-50d46df9ef03",
-          "symbol": "TSLA",
-          "right": "call",
-          "strike": 400.0,
-          "expiration": "2026-10-09",
-          "quantity": 2,
-          "side": "long",
-          "cost": 0.205,
-          "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-10-07T14:06:41.089037Z",
-          "hardFloor": null,
-          "lastBid": 0.03,
-          "lastAsk": 0.05,
-          "lastMark": 0.04
-        },
-        {
-          "optionId": "b263b066-1bfc-408e-85ed-3d5ea39a483c",
-          "symbol": "TSLA",
-          "right": "call",
-          "strike": 400.0,
-          "expiration": "2026-10-12",
-          "quantity": 3,
-          "side": "long",
-          "cost": 0.513333,
-          "multiplier": 100,
-          "pendingSell": 3,
-          "pendingSellLimit": 0.6,
-          "openedAt": "2026-10-07T13:51:33.454950Z",
-          "hardFloor": null,
-          "lastBid": 0.14,
-          "lastAsk": 0.15,
-          "lastMark": 0.145
+          "lastBid": 1.15,
+          "lastAsk": 1.17,
+          "lastMark": 1.16
         }
       ]
     }
