@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-10-13",
-  "generated_at_utc": "2026-10-13T13:04:00Z",
+  "generated_at_utc": "2026-10-13T13:43:58Z",
   "git_sha": "e4e6cc554f29f4e92c18e2066ab1a19198e0f2e1",
   "recipe_version": "recipe_v1",
   "quickscan_count": 43,
@@ -12,7 +12,7 @@
   "top5": [],
   "structure": {},
   "week_calendar": [],
-  "card_phase": "live",
+  "card_phase": "open-adjust",
   "feed_health": "feeds fresh",
   "open_watch_backup": {"rows": []}
 }
