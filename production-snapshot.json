@@ -1,1 +1,18 @@
-{"as_of_date": "2026-10-13"}
+{
+  "as_of_date": "2026-10-13",
+  "generated_at_utc": "2026-10-13T13:04:00Z",
+  "git_sha": "e4e6cc554f29f4e92c18e2066ab1a19198e0f2e1",
+  "recipe_version": "recipe_v1",
+  "quickscan_count": 43,
+  "universe_count": 90,
+  "generation_ticker_count": 90,
+  "quickscan_ticker_count": 43,
+  "quickscan_tickers": ["AAPL", "ACHR", "AI", "AMZN", "ARM", "BE", "COIN", "DELL", "DRAM", "GLD", "HIMS", "IBIT", "IBM", "INTC", "IONQ", "IWM", "LITE", "LYFT", "MARA", "MRNA", "MSTR", "NBIS", "NFLX", "PLTR", "PTON", "QQQ", "RGTI", "RIVN", "RKLB", "SLV", "SMCI", "SMH", "SNDK", "SOFI", "SOUN", "SPCX", "SPY", "TSLA", "UBER", "VIX", "WDAY", "WMT", "XLF"],
+  "quickscan": [],
+  "top5": [],
+  "structure": {},
+  "week_calendar": [],
+  "card_phase": "live",
+  "feed_health": "feeds fresh",
+  "open_watch_backup": {"rows": []}
+}
