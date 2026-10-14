@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-14T18:40:30Z",
+  "capturedAt": "2026-10-14T19:40:34Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -42,7 +42,7 @@
           "openedAt": "2026-10-09T14:55:15.467891Z",
           "hardFloor": null,
           "lastBid": 0.04,
-          "lastAsk": 0.06,
+          "lastAsk": 0.05,
           "lastMark": 0.05
         }
       ]
