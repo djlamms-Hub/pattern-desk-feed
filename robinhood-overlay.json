@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-13T20:05:58Z",
+  "capturedAt": "2026-10-14T13:46:10Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,30 +21,12 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 819.04,
-      "cash": 582.03,
-      "buyingPower": 582.03,
-      "optionsValue": 237,
+      "totalValue": 895.94,
+      "cash": 887.93,
+      "buyingPower": 887.93,
+      "optionsValue": 8,
       "pendingDeposits": 0,
       "positions": [
-        {
-          "optionId": "a260c679-ab47-4265-a6cb-5225e4741a00",
-          "symbol": "WMT",
-          "right": "call",
-          "strike": 112.0,
-          "expiration": "2026-10-23",
-          "quantity": 1,
-          "side": "long",
-          "cost": 2.05,
-          "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-10-13T19:37:33.508869Z",
-          "hardFloor": null,
-          "lastBid": 1.82,
-          "lastAsk": 1.97,
-          "lastMark": 1.895
-        },
         {
           "optionId": "3b2d9387-9f84-4f99-b26b-ba61a3c4042f",
           "symbol": "SMCI",
@@ -59,27 +41,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-09T14:55:15.467891Z",
           "hardFloor": null,
-          "lastBid": 0.38,
-          "lastAsk": 0.41,
-          "lastMark": 0.395
-        },
-        {
-          "optionId": "f38c9ff3-f3b6-49f4-8327-009221296a36",
-          "symbol": "DRAM",
-          "right": "call",
-          "strike": 58.5,
-          "expiration": "2026-10-16",
-          "quantity": 1,
-          "side": "long",
-          "cost": 1.61,
-          "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-10-08T13:44:10.864257Z",
-          "hardFloor": null,
-          "lastBid": 0.05,
+          "lastBid": 0.07,
           "lastAsk": 0.09,
-          "lastMark": 0.07
+          "lastMark": 0.08
         }
       ]
     }
