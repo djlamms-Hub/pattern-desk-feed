@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-15T20:05:41Z",
+  "capturedAt": "2026-10-16T13:43:12Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -23,7 +23,7 @@
       "analysisOnly": true,
       "totalValue": 720.71,
       "cash": 720.7,
-      "buyingPower": 720.7,
+      "buyingPower": 220.66,
       "optionsValue": 0,
       "pendingDeposits": 0,
       "positions": []
