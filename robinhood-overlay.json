@@ -1,11 +1,11 @@
 {
-  "capturedAt": "2026-10-19T20:05:00Z",
+  "capturedAt": "2026-10-20T13:40:40Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
       "id": "agentic",
       "label": "Agentic",
-      "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
+      "accountNumberMasked": "••••9327",
       "tradable": true,
       "analysisOnly": false,
       "totalValue": 29.1,
@@ -18,7 +18,7 @@
     {
       "id": "individual",
       "label": "Individual",
-      "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
+      "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
       "totalValue": 738.53,
