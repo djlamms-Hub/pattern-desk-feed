@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-20T17:40:33Z",
+  "capturedAt": "2026-10-20T18:40:31Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,12 +21,30 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 738.49,
-      "cash": 561.48,
+      "totalValue": 735.45,
+      "cash": 265.44,
       "buyingPower": 265.44,
-      "optionsValue": 177,
+      "optionsValue": 470,
       "pendingDeposits": 0,
       "positions": [
+        {
+          "optionId": "5df8ac3a-580b-461a-8cda-52899b4f20ba",
+          "symbol": "DRAM",
+          "right": "call",
+          "strike": 49,
+          "expiration": "2026-11-20",
+          "quantity": 1,
+          "side": "long",
+          "cost": 2.96,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-10-20T15:44:59.241442Z",
+          "hardFloor": null,
+          "lastBid": 2.91,
+          "lastAsk": 2.96,
+          "lastMark": 2.935
+        },
         {
           "optionId": "62fa25fe-9f31-4138-9520-c67f1fcc2594",
           "symbol": "SLV",
@@ -41,9 +59,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-20T15:43:30.805175Z",
           "hardFloor": null,
-          "lastBid": 1.75,
-          "lastAsk": 1.79,
-          "lastMark": 1.77
+          "lastBid": 1.73,
+          "lastAsk": 1.78,
+          "lastMark": 1.755
         }
       ]
     }
