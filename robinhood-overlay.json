@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-22T13:43:46Z",
+  "capturedAt": "2026-10-22T14:40:38Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,30 +21,12 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 639.32,
-      "cash": 39.31,
-      "buyingPower": 39.31,
-      "optionsValue": 600,
+      "totalValue": 643.27,
+      "cash": 302.26,
+      "buyingPower": 302.26,
+      "optionsValue": 341,
       "pendingDeposits": 0,
       "positions": [
-        {
-          "optionId": "7b4ff945-2a89-4333-acc9-c3c29272bb12",
-          "symbol": "DIS",
-          "right": "call",
-          "strike": 112,
-          "expiration": "2026-11-06",
-          "quantity": 1,
-          "side": "long",
-          "cost": 1.7,
-          "multiplier": 100,
-          "pendingSell": 1,
-          "pendingSellLimit": 2.9,
-          "openedAt": "2026-10-21T14:42:35.099556Z",
-          "hardFloor": null,
-          "lastBid": 2.15,
-          "lastAsk": 2.59,
-          "lastMark": 2.37
-        },
         {
           "optionId": "5df8ac3a-580b-461a-8cda-52899b4f20ba",
           "symbol": "DRAM",
@@ -59,9 +41,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-20T15:44:59.241442Z",
           "hardFloor": null,
-          "lastBid": 2.6,
-          "lastAsk": 2.69,
-          "lastMark": 2.645
+          "lastBid": 2.35,
+          "lastAsk": 2.43,
+          "lastMark": 2.39
         },
         {
           "optionId": "62fa25fe-9f31-4138-9520-c67f1fcc2594",
@@ -77,9 +59,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-20T15:43:30.805175Z",
           "hardFloor": null,
-          "lastBid": 0.96,
-          "lastAsk": 1.0,
-          "lastMark": 0.98
+          "lastBid": 0.99,
+          "lastAsk": 1.04,
+          "lastMark": 1.015
         }
       ]
     }
