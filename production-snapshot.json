@@ -1,1 +1,1 @@
-PLACEHOLDER_TOO_LARGE_SEE_LOCAL_FILE
+$(cat /tmp/production-snapshot-new.json)
