@@ -15988,8 +15988,14 @@
       "week_proj": "Fri 10/30 \u2192 261.92 (T1) conf 75",
       "next_week_proj": "Fri 11/06 \u2192 265.67 (stretch) conf 60",
       "next_tier": null,
-      "vol_tier": "High",
+      "invalidation": 253.0,
+      "market_dir": "Neutral",
+      "market_conf": 45.0,
+      "event_risk_score": 0.0,
+      "event_caution": "false",
       "atr_pct": 5.01,
+      "rv20": 57.83,
+      "vol_tier": "High",
       "trade_style": "Day Trade",
       "style_reason": "High vol, stop 0.20 ATR < 1 (P4)",
       "stop_atr": 0.2,
@@ -15997,7 +16003,10 @@
       "t1_alt": 265.67,
       "rr_alt": 2.4,
       "stop_alt": null,
-      "rr_alt2": null
+      "rr_alt2": null,
+      "block_kind": "risk_gate",
+      "direction_display": "long",
+      "earnings_display": "unknown"
     },
     {
       "rank": 2,
@@ -16010,8 +16019,14 @@
       "week_proj": "Fri 10/30 \u2192 115 (call_wall) conf 75",
       "next_week_proj": "Fri 11/06 \u2192 115 (call_wall) conf 75",
       "next_tier": null,
-      "vol_tier": "Low",
+      "invalidation": 112.04,
+      "market_dir": "Neutral",
+      "market_conf": 45.0,
+      "event_risk_score": 0.0,
+      "event_caution": "false",
       "atr_pct": 1.8,
+      "rv20": 19.38,
+      "vol_tier": "Low",
       "trade_style": "Swing",
       "style_reason": "default Swing: Low vol, stop 0.66 ATR (P5)",
       "stop_atr": 0.66,
@@ -16019,7 +16034,10 @@
       "t1_alt": 116.45,
       "rr_alt": 1.3,
       "stop_alt": 112.87,
-      "rr_alt2": 0.78
+      "rr_alt2": 0.78,
+      "block_kind": "",
+      "direction_display": "long",
+      "earnings_display": "unknown"
     },
     {
       "rank": 3,
@@ -16032,8 +16050,14 @@
       "week_proj": "Fri 10/30 \u2192 51.69 (T1) conf 75",
       "next_week_proj": "Fri 11/06 \u2192 51.69 (T1) conf 75",
       "next_tier": "Next tier: support 49.29 | inv <48.58 | reclaim 50.76",
-      "vol_tier": "Med",
+      "invalidation": 49.98,
+      "market_dir": "Neutral",
+      "market_conf": 45.0,
+      "event_risk_score": 0.0,
+      "event_caution": "false",
       "atr_pct": 2.91,
+      "rv20": 27.03,
+      "vol_tier": "Med",
       "trade_style": "Swing",
       "style_reason": "default Swing: Med vol, stop 0.52 ATR (P5)",
       "stop_atr": 0.52,
@@ -16041,7 +16065,10 @@
       "t1_alt": 52.44,
       "rr_alt": 1.38,
       "stop_alt": 50.39,
-      "rr_alt2": 1.04
+      "rr_alt2": 1.04,
+      "block_kind": "",
+      "direction_display": "long",
+      "earnings_display": "2026-11-05"
     },
     {
       "rank": 4,
@@ -16054,8 +16081,14 @@
       "week_proj": "Fri 10/30 \u2192 389.95 (T1) conf 75",
       "next_week_proj": "Fri 11/06 \u2192 395.05 (stretch) conf 60",
       "next_tier": null,
-      "vol_tier": "High",
+      "invalidation": 376.86,
+      "market_dir": "Neutral",
+      "market_conf": 45.0,
+      "event_risk_score": 0.0,
+      "event_caution": "false",
       "atr_pct": 4.96,
+      "rv20": 58.36,
+      "vol_tier": "High",
       "trade_style": "Day Trade",
       "style_reason": "High vol + intraday trigger (Breakout); no option data (P3)",
       "stop_atr": 0.21,
@@ -16063,7 +16096,10 @@
       "t1_alt": 395.05,
       "rr_alt": 2.18,
       "stop_alt": null,
-      "rr_alt2": null
+      "rr_alt2": null,
+      "block_kind": "risk_gate",
+      "direction_display": "long",
+      "earnings_display": "unknown"
     },
     {
       "rank": 5,
@@ -16076,8 +16112,14 @@
       "week_proj": "Fri 10/30 \u2192 330 (call_wall) conf 75",
       "next_week_proj": "Fri 11/06 \u2192 333.69 (stretch) conf 60",
       "next_tier": "Next tier: support 313.65 | inv <308.87 | reclaim 322.94",
-      "vol_tier": "High",
+      "invalidation": 318.89,
+      "market_dir": "Neutral",
+      "market_conf": 45.0,
+      "event_risk_score": 0.0,
+      "event_caution": "false",
       "atr_pct": 4.95,
+      "rv20": 55.68,
+      "vol_tier": "High",
       "trade_style": "Day Trade",
       "style_reason": "High vol, stop 0.25 ATR < 1 (P4)",
       "stop_atr": 0.25,
@@ -16085,7 +16127,10 @@
       "t1_alt": 333.69,
       "rr_alt": 1.63,
       "stop_alt": 318.91,
-      "rr_alt2": 0.56
+      "rr_alt2": 0.56,
+      "block_kind": "risk_gate",
+      "direction_display": "long",
+      "earnings_display": "unknown"
     },
     {
       "rank": 6,
@@ -16098,8 +16143,14 @@
       "week_proj": "Fri 10/30 \u2192 329.33 (T1) conf 73",
       "next_week_proj": "Fri 11/06 \u2192 325.07 (stretch) conf 58",
       "next_tier": null,
-      "vol_tier": "Low",
+      "invalidation": 338.78,
+      "market_dir": "Neutral",
+      "market_conf": 45.0,
+      "event_risk_score": 0.0,
+      "event_caution": "false",
       "atr_pct": 1.9,
+      "rv20": 14.61,
+      "vol_tier": "Low",
       "trade_style": "Swing",
       "style_reason": "default Swing: Low vol, stop 0.68 ATR (P5)",
       "stop_atr": 0.68,
@@ -16107,7 +16158,10 @@
       "t1_alt": 325.07,
       "rr_alt": 1.31,
       "stop_alt": 336.09,
-      "rr_alt2": 1.04
+      "rr_alt2": 1.04,
+      "block_kind": "",
+      "direction_display": "short",
+      "earnings_display": "unknown"
     },
     {
       "rank": 7,
@@ -16120,8 +16174,14 @@
       "week_proj": "Fri 10/30 \u2192 330 (stretch) conf 60",
       "next_week_proj": "Fri 11/06 \u2192 330 (stretch) conf 60",
       "next_tier": null,
-      "vol_tier": "High",
+      "invalidation": 321.0,
+      "market_dir": "Neutral",
+      "market_conf": 45.0,
+      "event_risk_score": 0.0,
+      "event_caution": "false",
       "atr_pct": 5.65,
+      "rv20": 56.78,
+      "vol_tier": "High",
       "trade_style": "Day Trade",
       "style_reason": "High vol, stop 0.17 ATR < 1 (P4)",
       "stop_atr": 0.17,
@@ -16129,7 +16189,10 @@
       "t1_alt": 330.0,
       "rr_alt": 0.84,
       "stop_alt": null,
-      "rr_alt2": null
+      "rr_alt2": null,
+      "block_kind": "risk_gate",
+      "direction_display": "long",
+      "earnings_display": "2026-11-05"
     },
     {
       "rank": 8,
@@ -16142,8 +16205,14 @@
       "week_proj": "Fri 10/30 \u2192 216.96 (stretch) conf 60",
       "next_week_proj": "Fri 11/06 \u2192 216.96 (stretch) conf 60",
       "next_tier": "Next tier: support 205.1 | inv <202.53 | reclaim 211.29",
-      "vol_tier": "Med",
+      "invalidation": 208.54,
+      "market_dir": "Neutral",
+      "market_conf": 45.0,
+      "event_risk_score": 0.0,
+      "event_caution": "false",
       "atr_pct": 2.87,
+      "rv20": 29.55,
+      "vol_tier": "Med",
       "trade_style": "Swing",
       "style_reason": "default Swing: Med vol, stop 0.45 ATR (P5)",
       "stop_atr": 0.45,
@@ -16151,7 +16220,10 @@
       "t1_alt": 216.96,
       "rr_alt": 1.2,
       "stop_alt": 209.78,
-      "rr_alt2": 0.56
+      "rr_alt2": 0.56,
+      "block_kind": "",
+      "direction_display": "long",
+      "earnings_display": "unknown"
     },
     {
       "rank": 9,
@@ -16164,8 +16236,14 @@
       "week_proj": "Fri 10/30 \u2192 51.54 (stretch) conf 60",
       "next_week_proj": "Fri 11/06 \u2192 51.54 (stretch) conf 60",
       "next_tier": null,
-      "vol_tier": "High",
+      "invalidation": 54.42,
+      "market_dir": "Neutral",
+      "market_conf": 45.0,
+      "event_risk_score": 0.0,
+      "event_caution": "false",
       "atr_pct": 10.96,
+      "rv20": 90.82,
+      "vol_tier": "High",
       "trade_style": "Day Trade",
       "style_reason": "High vol + intraday trigger (Breakout); no option data (P3)",
       "stop_atr": 0.12,
@@ -16173,7 +16251,10 @@
       "t1_alt": 51.54,
       "rr_alt": 1.97,
       "stop_alt": null,
-      "rr_alt2": null
+      "rr_alt2": null,
+      "block_kind": "risk_gate",
+      "direction_display": "short",
+      "earnings_display": "unknown"
     },
     {
       "rank": 10,
@@ -16186,8 +16267,14 @@
       "week_proj": "Fri 10/30 \u2192 183.75 (T1) conf 73",
       "next_week_proj": "Fri 11/06 \u2192 186.03 (stretch) conf 58",
       "next_tier": null,
-      "vol_tier": "Med",
+      "invalidation": 177.83,
+      "market_dir": "Neutral",
+      "market_conf": 45.0,
+      "event_risk_score": 0.0,
+      "event_caution": "false",
       "atr_pct": 2.12,
+      "rv20": 18.18,
+      "vol_tier": "Med",
       "trade_style": "Swing",
       "style_reason": "default Swing: Med vol, stop 0.64 ATR (P5)",
       "stop_atr": 0.64,
@@ -16195,7 +16282,10 @@
       "t1_alt": 186.03,
       "rr_alt": 1.43,
       "stop_alt": 179.34,
-      "rr_alt2": 1.35
+      "rr_alt2": 1.35,
+      "block_kind": "",
+      "direction_display": "long",
+      "earnings_display": "2026-10-30"
     }
   ],
   "structure": {
@@ -31328,8 +31418,14 @@
         "week_proj": "Fri 10/30 \u2192 261.92 (T1) conf 75",
         "next_week_proj": "Fri 11/06 \u2192 265.67 (stretch) conf 60",
         "next_tier": null,
-        "vol_tier": "High",
+        "invalidation": 253.0,
+        "market_dir": "Neutral",
+        "market_conf": 45.0,
+        "event_risk_score": 0.0,
+        "event_caution": "false",
         "atr_pct": 5.01,
+        "rv20": 57.83,
+        "vol_tier": "High",
         "trade_style": "Day Trade",
         "style_reason": "High vol, stop 0.20 ATR < 1 (P4)",
         "stop_atr": 0.2,
@@ -31337,7 +31433,10 @@
         "t1_alt": 265.67,
         "rr_alt": 2.4,
         "stop_alt": null,
-        "rr_alt2": null
+        "rr_alt2": null,
+        "block_kind": "risk_gate",
+        "direction_display": "long",
+        "earnings_display": "unknown"
       },
       {
         "rank": 2,
@@ -31350,8 +31449,14 @@
         "week_proj": "Fri 10/30 \u2192 115 (call_wall) conf 75",
         "next_week_proj": "Fri 11/06 \u2192 115 (call_wall) conf 75",
         "next_tier": null,
-        "vol_tier": "Low",
+        "invalidation": 112.04,
+        "market_dir": "Neutral",
+        "market_conf": 45.0,
+        "event_risk_score": 0.0,
+        "event_caution": "false",
         "atr_pct": 1.8,
+        "rv20": 19.38,
+        "vol_tier": "Low",
         "trade_style": "Swing",
         "style_reason": "default Swing: Low vol, stop 0.66 ATR (P5)",
         "stop_atr": 0.66,
@@ -31359,7 +31464,10 @@
         "t1_alt": 116.45,
         "rr_alt": 1.3,
         "stop_alt": 112.87,
-        "rr_alt2": 0.78
+        "rr_alt2": 0.78,
+        "block_kind": "",
+        "direction_display": "long",
+        "earnings_display": "unknown"
       },
       {
         "rank": 3,
@@ -31372,8 +31480,14 @@
         "week_proj": "Fri 10/30 \u2192 51.69 (T1) conf 75",
         "next_week_proj": "Fri 11/06 \u2192 51.69 (T1) conf 75",
         "next_tier": "Next tier: support 49.29 | inv <48.58 | reclaim 50.76",
-        "vol_tier": "Med",
+        "invalidation": 49.98,
+        "market_dir": "Neutral",
+        "market_conf": 45.0,
+        "event_risk_score": 0.0,
+        "event_caution": "false",
         "atr_pct": 2.91,
+        "rv20": 27.03,
+        "vol_tier": "Med",
         "trade_style": "Swing",
         "style_reason": "default Swing: Med vol, stop 0.52 ATR (P5)",
         "stop_atr": 0.52,
@@ -31381,7 +31495,10 @@
         "t1_alt": 52.44,
         "rr_alt": 1.38,
         "stop_alt": 50.39,
-        "rr_alt2": 1.04
+        "rr_alt2": 1.04,
+        "block_kind": "",
+        "direction_display": "long",
+        "earnings_display": "2026-11-05"
       },
       {
         "rank": 4,
@@ -31394,8 +31511,14 @@
         "week_proj": "Fri 10/30 \u2192 389.95 (T1) conf 75",
         "next_week_proj": "Fri 11/06 \u2192 395.05 (stretch) conf 60",
         "next_tier": null,
-        "vol_tier": "High",
+        "invalidation": 376.86,
+        "market_dir": "Neutral",
+        "market_conf": 45.0,
+        "event_risk_score": 0.0,
+        "event_caution": "false",
         "atr_pct": 4.96,
+        "rv20": 58.36,
+        "vol_tier": "High",
         "trade_style": "Day Trade",
         "style_reason": "High vol + intraday trigger (Breakout); no option data (P3)",
         "stop_atr": 0.21,
@@ -31403,7 +31526,10 @@
         "t1_alt": 395.05,
         "rr_alt": 2.18,
         "stop_alt": null,
-        "rr_alt2": null
+        "rr_alt2": null,
+        "block_kind": "risk_gate",
+        "direction_display": "long",
+        "earnings_display": "unknown"
       },
       {
         "rank": 5,
@@ -31416,8 +31542,14 @@
         "week_proj": "Fri 10/30 \u2192 330 (call_wall) conf 75",
         "next_week_proj": "Fri 11/06 \u2192 333.69 (stretch) conf 60",
         "next_tier": "Next tier: support 313.65 | inv <308.87 | reclaim 322.94",
-        "vol_tier": "High",
+        "invalidation": 318.89,
+        "market_dir": "Neutral",
+        "market_conf": 45.0,
+        "event_risk_score": 0.0,
+        "event_caution": "false",
         "atr_pct": 4.95,
+        "rv20": 55.68,
+        "vol_tier": "High",
         "trade_style": "Day Trade",
         "style_reason": "High vol, stop 0.25 ATR < 1 (P4)",
         "stop_atr": 0.25,
@@ -31425,7 +31557,10 @@
         "t1_alt": 333.69,
         "rr_alt": 1.63,
         "stop_alt": 318.91,
-        "rr_alt2": 0.56
+        "rr_alt2": 0.56,
+        "block_kind": "risk_gate",
+        "direction_display": "long",
+        "earnings_display": "unknown"
       },
       {
         "rank": 6,
@@ -31438,8 +31573,14 @@
         "week_proj": "Fri 10/30 \u2192 329.33 (T1) conf 73",
         "next_week_proj": "Fri 11/06 \u2192 325.07 (stretch) conf 58",
         "next_tier": null,
-        "vol_tier": "Low",
+        "invalidation": 338.78,
+        "market_dir": "Neutral",
+        "market_conf": 45.0,
+        "event_risk_score": 0.0,
+        "event_caution": "false",
         "atr_pct": 1.9,
+        "rv20": 14.61,
+        "vol_tier": "Low",
         "trade_style": "Swing",
         "style_reason": "default Swing: Low vol, stop 0.68 ATR (P5)",
         "stop_atr": 0.68,
@@ -31447,7 +31588,10 @@
         "t1_alt": 325.07,
         "rr_alt": 1.31,
         "stop_alt": 336.09,
-        "rr_alt2": 1.04
+        "rr_alt2": 1.04,
+        "block_kind": "",
+        "direction_display": "short",
+        "earnings_display": "unknown"
       },
       {
         "rank": 7,
@@ -31460,8 +31604,14 @@
         "week_proj": "Fri 10/30 \u2192 330 (stretch) conf 60",
         "next_week_proj": "Fri 11/06 \u2192 330 (stretch) conf 60",
         "next_tier": null,
-        "vol_tier": "High",
+        "invalidation": 321.0,
+        "market_dir": "Neutral",
+        "market_conf": 45.0,
+        "event_risk_score": 0.0,
+        "event_caution": "false",
         "atr_pct": 5.65,
+        "rv20": 56.78,
+        "vol_tier": "High",
         "trade_style": "Day Trade",
         "style_reason": "High vol, stop 0.17 ATR < 1 (P4)",
         "stop_atr": 0.17,
@@ -31469,7 +31619,10 @@
         "t1_alt": 330.0,
         "rr_alt": 0.84,
         "stop_alt": null,
-        "rr_alt2": null
+        "rr_alt2": null,
+        "block_kind": "risk_gate",
+        "direction_display": "long",
+        "earnings_display": "2026-11-05"
       },
       {
         "rank": 8,
@@ -31482,8 +31635,14 @@
         "week_proj": "Fri 10/30 \u2192 216.96 (stretch) conf 60",
         "next_week_proj": "Fri 11/06 \u2192 216.96 (stretch) conf 60",
         "next_tier": "Next tier: support 205.1 | inv <202.53 | reclaim 211.29",
-        "vol_tier": "Med",
+        "invalidation": 208.54,
+        "market_dir": "Neutral",
+        "market_conf": 45.0,
+        "event_risk_score": 0.0,
+        "event_caution": "false",
         "atr_pct": 2.87,
+        "rv20": 29.55,
+        "vol_tier": "Med",
         "trade_style": "Swing",
         "style_reason": "default Swing: Med vol, stop 0.45 ATR (P5)",
         "stop_atr": 0.45,
@@ -31491,7 +31650,10 @@
         "t1_alt": 216.96,
         "rr_alt": 1.2,
         "stop_alt": 209.78,
-        "rr_alt2": 0.56
+        "rr_alt2": 0.56,
+        "block_kind": "",
+        "direction_display": "long",
+        "earnings_display": "unknown"
       },
       {
         "rank": 9,
@@ -31504,8 +31666,14 @@
         "week_proj": "Fri 10/30 \u2192 51.54 (stretch) conf 60",
         "next_week_proj": "Fri 11/06 \u2192 51.54 (stretch) conf 60",
         "next_tier": null,
-        "vol_tier": "High",
+        "invalidation": 54.42,
+        "market_dir": "Neutral",
+        "market_conf": 45.0,
+        "event_risk_score": 0.0,
+        "event_caution": "false",
         "atr_pct": 10.96,
+        "rv20": 90.82,
+        "vol_tier": "High",
         "trade_style": "Day Trade",
         "style_reason": "High vol + intraday trigger (Breakout); no option data (P3)",
         "stop_atr": 0.12,
@@ -31513,7 +31681,10 @@
         "t1_alt": 51.54,
         "rr_alt": 1.97,
         "stop_alt": null,
-        "rr_alt2": null
+        "rr_alt2": null,
+        "block_kind": "risk_gate",
+        "direction_display": "short",
+        "earnings_display": "unknown"
       },
       {
         "rank": 10,
@@ -31526,8 +31697,14 @@
         "week_proj": "Fri 10/30 \u2192 183.75 (T1) conf 73",
         "next_week_proj": "Fri 11/06 \u2192 186.03 (stretch) conf 58",
         "next_tier": null,
-        "vol_tier": "Med",
+        "invalidation": 177.83,
+        "market_dir": "Neutral",
+        "market_conf": 45.0,
+        "event_risk_score": 0.0,
+        "event_caution": "false",
         "atr_pct": 2.12,
+        "rv20": 18.18,
+        "vol_tier": "Med",
         "trade_style": "Swing",
         "style_reason": "default Swing: Med vol, stop 0.64 ATR (P5)",
         "stop_atr": 0.64,
@@ -31535,7 +31712,10 @@
         "t1_alt": 186.03,
         "rr_alt": 1.43,
         "stop_alt": 179.34,
-        "rr_alt2": 1.35
+        "rr_alt2": 1.35,
+        "block_kind": "",
+        "direction_display": "long",
+        "earnings_display": "2026-10-30"
       }
     ]
   },
@@ -33791,5 +33971,308 @@
         "option_pending": false
       }
     ]
-  }
+  },
+  "calendar_events": [
+    {
+      "date": "2026-10-26",
+      "time": "all-day",
+      "type": "other",
+      "ticker": "MARKET",
+      "name": "Earnings+Fed week opens: futures modestly higher after S&P/Nasdaq second straight weekly loss; FOMC 10/28 (fed funds futures ~90% hold at 3.75-4.00%), ECB 10/29, BoJ 10/30; MSFT/GOOGL 10/28 and AMZN 10/29 AI capex test"
+    },
+    {
+      "date": "2026-10-26",
+      "time": "all-day",
+      "type": "other",
+      "ticker": "MARKET",
+      "name": "Oil/Iran: crude eases from April high; Brent -2.2% to $114.52, WTI -2.24% to $101.03 (Asia) after Friday reports of possible US/Israel strikes on Iran after midterms"
+    },
+    {
+      "date": "2026-10-26",
+      "time": "pre-market",
+      "type": "other",
+      "ticker": "MARKET",
+      "name": "AI/neocloud jitters: Nebius, CoreWeave, Iren down >4% premarket after Elon Musk says 200+ neocloud companies could collapse; Meta launches $35B stock offering to fund AI"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "BA",
+      "name": "BA Q3 earnings"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "GLW",
+      "name": "GLW Q3 earnings"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "SOFI",
+      "name": "SOFI Q3 earnings"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "GLXY",
+      "name": "GLXY Q3 earnings"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "10:00",
+      "type": "macro",
+      "ticker": "MARKET",
+      "name": "New Home Sales (Sep)"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "HOOD",
+      "name": "HOOD Q3 earnings"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "ENPH",
+      "name": "ENPH Q3 earnings"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "GNRC",
+      "name": "GNRC Q3 earnings"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "14:00",
+      "type": "macro",
+      "ticker": "MARKET",
+      "name": "FOMC decision (Oct 27-28 meeting)"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "AMC",
+      "type": "mega_earnings",
+      "ticker": "MSFT",
+      "name": "MSFT FQ1 FY27 earnings"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "AMC",
+      "type": "mega_earnings",
+      "ticker": "GOOGL",
+      "name": "GOOGL Q3 earnings"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "FTNT",
+      "name": "FTNT Q3 earnings"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "CVNA",
+      "name": "CVNA Q3 earnings"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "08:30",
+      "type": "macro",
+      "ticker": "MARKET",
+      "name": "GDP Q3 advance"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "08:30",
+      "type": "macro",
+      "ticker": "MARKET",
+      "name": "PCE (Sep) - Core PCE m/m"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "08:30",
+      "type": "macro",
+      "ticker": "MARKET",
+      "name": "Initial Jobless Claims"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "AMC",
+      "type": "mega_earnings",
+      "ticker": "AMZN",
+      "name": "AMZN Q3 earnings"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "INTC",
+      "name": "INTC Q3 earnings"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "COIN",
+      "name": "COIN Q3 earnings"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "MSTR",
+      "name": "MSTR Q3 earnings"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "FSLR",
+      "name": "FSLR Q3 earnings"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "RIVN",
+      "name": "RIVN Q3 earnings"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "RDDT",
+      "name": "RDDT Q3 earnings"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "XOM",
+      "name": "XOM Q3 earnings"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "CVX",
+      "name": "CVX Q3 earnings"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "AMC",
+      "type": "mega_earnings",
+      "ticker": "AAPL",
+      "name": "AAPL FQ4 earnings"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "PLTR",
+      "name": "PLTR Q3 earnings"
+    },
+    {
+      "date": "2026-11-03",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "SHOP",
+      "name": "SHOP Q3 earnings"
+    },
+    {
+      "date": "2026-11-03",
+      "time": "10:00",
+      "type": "macro",
+      "ticker": "MARKET",
+      "name": "JOLTS Job Openings (Sep)"
+    },
+    {
+      "date": "2026-11-03",
+      "time": "all-day",
+      "type": "earnings",
+      "ticker": "MARA",
+      "name": "MARA Q3 earnings (tentative)"
+    },
+    {
+      "date": "2026-11-03",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "AMD",
+      "name": "AMD Q3 earnings"
+    },
+    {
+      "date": "2026-11-03",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "ANET",
+      "name": "ANET Q3 earnings"
+    },
+    {
+      "date": "2026-11-03",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "SMCI",
+      "name": "SMCI FQ1 earnings"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "UBER",
+      "name": "UBER Q3 earnings"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "W",
+      "name": "W Q3 earnings"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "BMO",
+      "type": "earnings",
+      "ticker": "SOLS",
+      "name": "SOLS Q3 earnings"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "ARM",
+      "name": "ARM FQ2 earnings"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "QCOM",
+      "name": "QCOM FQ4 earnings"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "ELF",
+      "name": "ELF FQ2 earnings"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "AMC",
+      "type": "earnings",
+      "ticker": "FSLY",
+      "name": "FSLY Q3 earnings"
+    }
+  ]
 }
