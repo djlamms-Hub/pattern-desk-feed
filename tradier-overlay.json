@@ -1,0 +1,26 @@
+{
+  "capturedAt": "2026-10-26T22:57:47Z",
+  "note": "Live Tradier overlay. Display only. This desk never places orders.",
+  "accounts": [
+    {
+      "id": "tradier",
+      "label": "Tradier",
+      "broker": "tradier",
+      "accountNumberMasked": "••••8958",
+      "tradable": false,
+      "analysisOnly": true,
+      "positions": [
+        {
+          "symbol": "SOFI",
+          "right": "call",
+          "strike": 16,
+          "expiration": "2026-11-06",
+          "quantity": 1,
+          "side": "long",
+          "cost": 0.31,
+          "multiplier": 100
+        }
+      ]
+    }
+  ]
+}
