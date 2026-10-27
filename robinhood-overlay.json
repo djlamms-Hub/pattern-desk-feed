@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-27T15:40:30Z",
+  "capturedAt": "2026-10-27T16:41:15Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,12 +21,31 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 929.07,
-      "cash": 929.06,
-      "buyingPower": 838.98,
-      "optionsValue": 0,
+      "totalValue": 926.99,
+      "cash": 838.98,
+      "buyingPower": 638.94,
+      "optionsValue": 88,
       "pendingDeposits": 0,
-      "positions": []
+      "positions": [
+        {
+          "optionId": "3d6bb730-8b76-434d-8b51-fd9cb711ec40",
+          "symbol": "AI",
+          "right": "call",
+          "strike": 13,
+          "expiration": "2026-11-13",
+          "quantity": 2,
+          "side": "long",
+          "cost": 0.45,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-10-27T15:10:35.270670Z",
+          "hardFloor": null,
+          "lastBid": 0.4,
+          "lastAsk": 0.47,
+          "lastMark": 0.435
+        }
+      ]
     }
   ]
 }
