@@ -2,17 +2,23 @@
 
 Display-only Pattern Desk overlay feed. Masked account numbers only. Not a trading endpoint.
 
-## CORS-safe browser URLs (required)
+## CORS-safe browser URLs (required for Pattern Desk)
 
-GitHub `raw.githubusercontent.com` and `api.github.com` break browser fetches that send a `Cache-Control` request header (preflight fails: raw OPTIONS 403; api.github.com does not allow `cache-control` in `Access-Control-Allow-Headers`).
+GitHub `raw.githubusercontent.com` and `api.github.com` break browser fetches that send a `Cache-Control` request header:
 
-Use **jsDelivr** (already mirrors this public repo; full CORS including `cache-control` preflight):
+- `api.github.com` preflight succeeds but does **not** allow `cache-control` in `Access-Control-Allow-Headers`
+- `raw.githubusercontent.com` OPTIONS preflight returns **403**
 
-- Positions badges: `https://cdn.jsdelivr.net/gh/djlamms-Hub/pattern-desk-feed@main/tradier_positions.json`
-- Tradier overlay: `https://cdn.jsdelivr.net/gh/djlamms-Hub/pattern-desk-feed@main/tradier-overlay.json`
-- Robinhood overlay: `https://cdn.jsdelivr.net/gh/djlamms-Hub/pattern-desk-feed@main/robinhood-overlay.json`
-- Production snapshot: `https://cdn.jsdelivr.net/gh/djlamms-Hub/pattern-desk-feed@main/production-snapshot.json`
+**Use jsDelivr** (mirrors this public repo; CORS OK including `cache-control` preflight):
 
-Alternate (no custom request headers): plain GET to `https://raw.githubusercontent.com/djlamms-Hub/pattern-desk-feed/main/<file>` works (`Access-Control-Allow-Origin: *`) only if the client does **not** set `Cache-Control` / other non-simple headers.
+- `https://cdn.jsdelivr.net/gh/djlamms-Hub/pattern-desk-feed@main/tradier_positions.json`
+- `https://cdn.jsdelivr.net/gh/djlamms-Hub/pattern-desk-feed@main/tradier-overlay.json`
+- `https://cdn.jsdelivr.net/gh/djlamms-Hub/pattern-desk-feed@main/robinhood-overlay.json`
+- `https://cdn.jsdelivr.net/gh/djlamms-Hub/pattern-desk-feed@main/production-snapshot.json`
 
-GitHub Pages (`https://djlamms-hub.github.io/pattern-desk-feed/`) is enabled as a static mirror but is **not** a substitute for jsDelivr when the client sends `Cache-Control` (Pages OPTIONS returns 405).
+Smallest app-side alternatives (either works):
+
+1. Fetch the jsDelivr URLs above, or
+2. Keep raw.githubusercontent.com but **drop** the `Cache-Control` request header (simple GET already returns `Access-Control-Allow-Origin: *`).
+
+Feed publish path is unchanged (`FEED_GITHUB_TOKEN` → Contents API). Ranking/grades untouched.
