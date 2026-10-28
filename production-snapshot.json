@@ -1,1 +1,1 @@
-test full json here
+$(cat /tmp/production-snapshot.json)
