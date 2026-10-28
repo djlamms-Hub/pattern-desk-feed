@@ -1,11 +1,11 @@
 {
-  "capturedAt": "2026-10-28T14:40:25Z",
+  "capturedAt": "2026-10-28T15:21:06Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
       "id": "agentic",
       "label": "Agentic",
-      "accountNumberMasked": "••••9327",
+      "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
       "tradable": true,
       "analysisOnly": false,
       "totalValue": 29.1,
@@ -18,13 +18,13 @@
     {
       "id": "individual",
       "label": "Individual",
-      "accountNumberMasked": "••••3364",
+      "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 895.86,
-      "cash": 697.85,
-      "buyingPower": 482.81,
-      "optionsValue": 198,
+      "totalValue": 862.82,
+      "cash": 482.81,
+      "buyingPower": 436.77,
+      "optionsValue": 380,
       "pendingDeposits": 0,
       "positions": [
         {
@@ -41,9 +41,27 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-27T16:30:49.855346Z",
           "hardFloor": null,
-          "lastBid": 1.93,
-          "lastAsk": 2.03,
-          "lastMark": 1.98
+          "lastBid": 1.87,
+          "lastAsk": 1.97,
+          "lastMark": 1.92
+        },
+        {
+          "optionId": "040c7cd7-d460-450b-b470-f1cac2547747",
+          "symbol": "PLTR",
+          "right": "call",
+          "strike": 197.5,
+          "expiration": "2026-10-30",
+          "quantity": 1,
+          "side": "long",
+          "cost": 2.15,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-10-28T15:04:19.683385Z",
+          "hardFloor": null,
+          "lastBid": 1.85,
+          "lastAsk": 1.91,
+          "lastMark": 1.88
         }
       ]
     }
