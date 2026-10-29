@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-29T18:40:27Z",
+  "capturedAt": "2026-10-29T20:07:06Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,30 +21,12 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 950.65,
-      "cash": 51.64,
-      "buyingPower": 51.64,
-      "optionsValue": 899,
+      "totalValue": 892.55,
+      "cash": 429.54,
+      "buyingPower": 429.54,
+      "optionsValue": 463,
       "pendingDeposits": 0,
       "positions": [
-        {
-          "optionId": "63b8ac78-5841-4bce-ac12-e05a3057add3",
-          "symbol": "RIVN",
-          "right": "call",
-          "strike": 12,
-          "expiration": "2026-11-13",
-          "quantity": 1,
-          "side": "long",
-          "cost": 0.76,
-          "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-10-29T15:52:16.279973Z",
-          "hardFloor": null,
-          "lastBid": 0.68,
-          "lastAsk": 0.74,
-          "lastMark": 0.71
-        },
         {
           "optionId": "52371d4e-e9c9-434d-bc13-aff399d79c0b",
           "symbol": "TSLA",
@@ -59,9 +41,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-29T15:31:51.431208Z",
           "hardFloor": null,
-          "lastBid": 2.45,
-          "lastAsk": 2.51,
-          "lastMark": 2.48
+          "lastBid": 2.09,
+          "lastAsk": 2.17,
+          "lastMark": 2.13
         },
         {
           "optionId": "fbfc7b4c-cc77-4714-8938-822d210d42e4",
@@ -77,27 +59,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-29T13:55:28.825923Z",
           "hardFloor": null,
-          "lastBid": 2.47,
-          "lastAsk": 2.63,
-          "lastMark": 2.55
-        },
-        {
-          "optionId": "ccfa21d8-f021-4ae3-b0b7-d2830f8fcebb",
-          "symbol": "WMT",
-          "right": "call",
-          "strike": 120,
-          "expiration": "2026-11-13",
-          "quantity": 1,
-          "side": "long",
-          "cost": 2.05,
-          "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-10-27T16:30:49.855346Z",
-          "hardFloor": null,
-          "lastBid": 3.15,
-          "lastAsk": 3.3,
-          "lastMark": 3.225
+          "lastBid": 2.35,
+          "lastAsk": 2.64,
+          "lastMark": 2.50
         }
       ]
     }
