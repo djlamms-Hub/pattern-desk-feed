@@ -1,1 +1,157 @@
-PLACEHOLDER_TOO_LARGE
+{
+  "as_of_date": "2026-10-29",
+  "generated_at_utc": "2026-10-29T14:24:52Z",
+  "git_sha": "ccd27bf84934edeb40ee602b34f59db0b0adf7af",
+  "source_commit": "ccd27bf84934edeb40ee602b34f59db0b0adf7af",
+  "recipe_version": "recipe_v1",
+  "quickscan_count": 86,
+  "universe_count": 92,
+  "generation_ticker_count": 92,
+  "quickscan_ticker_count": 86,
+  "card_phase": "live",
+  "feed_health": {
+    "status": "feeds fresh",
+    "as_of": "2026-10-29"
+  },
+  "market_banner": {
+    "market_dir": "Bearish",
+    "market_conf": 55,
+    "event_risk_score": 2,
+    "event_caution": "true",
+    "event_tags": [],
+    "as_of": "2026-10-29",
+    "status": "live"
+  },
+  "week_calendar": [
+    "Thu 10/29: AI-capex split after hyperscaler prints: GOOGL -10.2% pre (Q3 EPS 2.12 vs exp 3.03, search $63.35B vs $64.85B; cloud $30.71B beat) vs MSFT +3.6% (EPS 4.92 vs 4.72, cloud rev $63.9B); Nasdaq-100 E-minis -1.01%, S&P -0.26%, Dow +0.51% (Reuters 05:18 ET); chips lower"
+  ],
+  "top5": [
+    {
+      "rank": 1,
+      "ticker": "AAPL",
+      "status": "Watch",
+      "score": 79.5,
+      "desk_read": "Spent | retest only, do not chase the old zone | Watch | pin | spent | wait trigger 340.79 | aligned weekly 350 | Next tier: support 331.4 | inv <325.81 | reclaim 340.79",
+      "next_tier": "Next tier: support 331.4 | inv <325.81 | reclaim 340.79",
+      "option_rec": "AAPL 04Nov 350C | above 340.79 | targets 346.18/350 | inv <335.52 | OI 350",
+      "week_proj": "Fri 10/30 → 350 (stretch) conf 75",
+      "next_week_proj": "Fri 11/06 → 350 (stretch) conf 75",
+      "setup_mode": "Support entry",
+      "options_bias": "Call",
+      "options_bias_reason": "calls>puts aligned",
+      "market_dir": "Bearish",
+      "market_conf": 55,
+      "event_risk_score": 2,
+      "event_caution": true,
+      "atr_pct": 1.79,
+      "rv20": 13.62,
+      "vol_tier": "Low",
+      "trade_style": "Swing",
+      "style_reason": "default Swing: Low vol, stop 0.86 ATR (P5)",
+      "stop_atr": 0.86,
+      "style_flag": null,
+      "t1_alt": 350.0,
+      "rr_alt": 1.05,
+      "stop_alt": 339.25,
+      "rr_alt2": 1.09,
+      "block_kind": null,
+      "direction_display": "long",
+      "earnings_display": "2026-11-02",
+      "invalidation": 335.52
+    }
+  ],
+  "quickscan": [
+    {
+      "as_of_date": "2026-10-29",
+      "ticker": "AAPL",
+      "spot_open": 346.92,
+      "spot_close": 343.83,
+      "levels": "206, 236, 241, 258, 275, 295, 301, 307, 313, (320), 326, 331, 336, 341, 346, 350, (354.34), 359, 363, 368, 375, 382, 394, 406",
+      "levels_parsed": [
+        {"price": 206, "side": "below"},
+        {"price": 236, "side": "below"},
+        {"price": 241, "side": "below"},
+        {"price": 258, "side": "below"},
+        {"price": 275, "side": "below"},
+        {"price": 295, "side": "below"},
+        {"price": 301, "side": "below"},
+        {"price": 307, "side": "below"},
+        {"price": 313, "side": "below"},
+        {"price": 320, "side": "below"},
+        {"price": 326, "side": "below"},
+        {"price": 331, "side": "below"},
+        {"price": 336, "side": "below"},
+        {"price": 341, "side": "below"},
+        {"price": 346, "side": "above"},
+        {"price": 350, "side": "above"},
+        {"price": 354.34, "side": "above"},
+        {"price": 359, "side": "above"},
+        {"price": 363, "side": "above"},
+        {"price": 368, "side": "above"},
+        {"price": 375, "side": "above"},
+        {"price": 382, "side": "above"},
+        {"price": 394, "side": "above"},
+        {"price": 406, "side": "above"}
+      ],
+      "on_quickscan": true,
+      "sentiment_label": "Bullish",
+      "sentiment_confidence_pct": 54,
+      "options_bias": "Call",
+      "option_rec": "AAPL 04Nov 350C | above 346 | targets 350 | inv <341 | OI 350",
+      "setup_breakout": "Long breakout above 346; inv under 341; targets 350; watch 350 call wall",
+      "setup_support_entry": "Long support entry near 341; inv under 336; reclaim target 346; watch 320 put wall",
+      "gap_fragile": "no",
+      "trade_idea": "Primary breakout: Long breakout above 346; inv under 341; targets 350; watch 350 call wall | Alt support entry: Long support entry near 341; inv under 336; reclaim target 346; watch 320 put wall",
+      "catalyst_notes": "Earnings 2026-11-02 AMC | RULE7: options lean Call vs Neutral; confidence capped 55; next print 2026-11-02 AMC | Apple unveils Touch MacBook Pro while Apple stock trades at EUR 312.50 - ad-hoc-news.de",
+      "pattern_notes": null,
+      "analysis": "Upside: above 346 opens 350 | Downside: loss of 341 risks 336 | Options: calls>puts near spot, moderate near-spot OI (53%), down wall 320 (29,178 OI), up wall 350 (38,813 OI), expiry 2026-10-30",
+      "atr_pct": 1.79,
+      "rv20": 13.62,
+      "vol_tier": "Low",
+      "trade_style": "Swing",
+      "style_reason": "default Swing: Low vol, stop 0.86 ATR (P5)",
+      "stop_atr": 0.86,
+      "style_flag": null,
+      "t1_alt": 350.0,
+      "rr_alt": 1.05,
+      "stop_alt": 339.25,
+      "rr_alt2": 1.09
+    }
+  ],
+  "structure": {
+    "AAPL": {
+      "spot_open": 346.920013,
+      "spot_close": 343.829987,
+      "atr": 6.215715,
+      "sector": "Technology",
+      "levels": [
+        {"price": 481.0, "side": "above"},
+        {"price": 447.0, "side": "above"},
+        {"price": 430.0, "side": "above"}
+      ]
+    }
+  },
+  "open_watch_backup": {
+    "as_of_date": "2026-10-29",
+    "rows": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "status": "Watch",
+        "score": 79.5,
+        "desk_read": "Spent | retest only, do not chase the old zone | Watch | pin | spent | wait trigger 340.79 | aligned weekly 350 | Next tier: support 331.4 | inv <325.81 | reclaim 340.79",
+        "next_tier": "Next tier: support 331.4 | inv <325.81 | reclaim 340.79"
+      }
+    ],
+    "source": "open_watch_latest.xlsx Top5",
+    "commit": "ccd27bf84934edeb40ee602b34f59db0b0adf7af"
+  },
+  "accumulation": {
+    "as_of": "2026-10-29",
+    "status": "live",
+    "rows": [],
+    "counts": {"total": 0},
+    "source": "analysis/latest/accumulation_latest.json"
+  },
+  "calendar_events": []
+}
