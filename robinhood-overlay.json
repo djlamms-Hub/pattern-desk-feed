@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-30T18:40:23Z",
+  "capturedAt": "2026-10-30T20:08:21Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "accounts": [
     {
@@ -21,48 +21,12 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 567.42,
-      "cash": 213.41,
-      "buyingPower": 213.41,
-      "optionsValue": 354,
+      "totalValue": 634.32,
+      "cash": 498.31,
+      "buyingPower": 498.31,
+      "optionsValue": 136,
       "pendingDeposits": 0,
       "positions": [
-        {
-          "optionId": "afd5ce65-ab56-45a5-8b05-f57f1ab87063",
-          "symbol": "SMCI",
-          "right": "call",
-          "strike": 33,
-          "expiration": "2026-11-06",
-          "quantity": 1,
-          "side": "long",
-          "cost": 2.26,
-          "multiplier": 100,
-          "pendingSell": 1,
-          "pendingSellLimit": 2.5,
-          "openedAt": "2026-10-30T14:06:21.123671Z",
-          "hardFloor": null,
-          "lastBid": 1.67,
-          "lastAsk": 1.7,
-          "lastMark": 1.685
-        },
-        {
-          "optionId": "2cc580d9-e1d8-48f1-b6b0-738333f32e06",
-          "symbol": "MP",
-          "right": "call",
-          "strike": 42,
-          "expiration": "2026-11-06",
-          "quantity": 1,
-          "side": "long",
-          "cost": 1.1,
-          "multiplier": 100,
-          "pendingSell": 1,
-          "pendingSellLimit": 1.25,
-          "openedAt": "2026-10-30T13:45:04.753361Z",
-          "hardFloor": null,
-          "lastBid": 0.55,
-          "lastAsk": 0.74,
-          "lastMark": 0.645
-        },
         {
           "optionId": "fbfc7b4c-cc77-4714-8938-822d210d42e4",
           "symbol": "MP",
@@ -78,8 +42,8 @@
           "openedAt": "2026-10-29T13:55:28.825923Z",
           "hardFloor": null,
           "lastBid": 1.08,
-          "lastAsk": 1.31,
-          "lastMark": 1.195
+          "lastAsk": 1.63,
+          "lastMark": 1.355
         }
       ]
     }
