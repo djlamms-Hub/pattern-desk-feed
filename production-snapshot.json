@@ -8,7 +8,7 @@
   "universe_count": 92,
   "generation_ticker_count": 92,
   "quickscan_ticker_count": 86,
-  "card_phase": "live",
+  "card_phase": "open-adjust",
   "feed_health": {
     "status": "feeds fresh"
   },
