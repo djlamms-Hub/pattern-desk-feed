@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-03T18:19:59Z",
+  "capturedAt": "2026-11-03T18:33:24Z",
   "note": "Live Tradier overlay. Display only. This desk never places orders.",
   "accounts": [
     {
@@ -9,18 +9,7 @@
       "accountNumberMasked": "••••8958",
       "tradable": false,
       "analysisOnly": true,
-      "positions": [
-        {
-          "symbol": "PTON",
-          "right": "call",
-          "strike": 5.5,
-          "expiration": "2026-11-06",
-          "quantity": 1,
-          "side": "long",
-          "cost": 0.3,
-          "multiplier": 100
-        }
-      ]
+      "positions": []
     }
   ]
 }
