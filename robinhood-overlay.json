@@ -1,12 +1,12 @@
 {
-  "capturedAt": "2026-11-04T18:08:25Z",
+  "capturedAt": "2026-11-04T18:39:40Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "pendingOrders": [],
   "accounts": [
     {
       "id": "agentic",
       "label": "Agentic",
-      "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
+      "accountNumberMasked": "••••9327",
       "tradable": true,
       "analysisOnly": false,
       "totalValue": 29.1,
@@ -19,13 +19,13 @@
     {
       "id": "individual",
       "label": "Individual",
-      "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
+      "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 502.52,
+      "totalValue": 466.52,
       "cash": 97.51,
       "buyingPower": 97.51,
-      "optionsValue": 405.0,
+      "optionsValue": 369.0,
       "pendingDeposits": 0,
       "positions": [
         {
@@ -42,9 +42,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-11-04T15:19:30.920558Z",
           "hardFloor": null,
-          "lastBid": 1.61,
-          "lastAsk": 1.74,
-          "lastMark": 1.68
+          "lastBid": 1.51,
+          "lastAsk": 1.57,
+          "lastMark": 1.54
         },
         {
           "optionId": "b5b62a38-082b-4df2-a707-aa9e12d5c900",
@@ -60,9 +60,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-11-04T15:27:25.578265Z",
           "hardFloor": null,
-          "lastBid": 0.12,
-          "lastAsk": 0.17,
-          "lastMark": 0.15
+          "lastBid": 0.13,
+          "lastAsk": 0.18,
+          "lastMark": 0.16
         },
         {
           "optionId": "fbfc7b4c-cc77-4714-8938-822d210d42e4",
@@ -78,9 +78,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-29T13:55:28.825923Z",
           "hardFloor": null,
-          "lastBid": 0.4,
-          "lastAsk": 0.67,
-          "lastMark": 0.54
+          "lastBid": 0.36,
+          "lastAsk": 0.57,
+          "lastMark": 0.47
         }
       ]
     }
