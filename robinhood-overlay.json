@@ -1,12 +1,12 @@
 {
-  "capturedAt": "2026-11-03T21:09:06Z",
+  "capturedAt": "2026-11-04T15:11:51Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "pendingOrders": [],
   "accounts": [
     {
       "id": "agentic",
       "label": "Agentic",
-      "accountNumberMasked": "••••9327",
+      "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
       "tradable": true,
       "analysisOnly": false,
       "totalValue": 29.1,
@@ -19,13 +19,13 @@
     {
       "id": "individual",
       "label": "Individual",
-      "accountNumberMasked": "••••3364",
+      "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 563.64,
+      "totalValue": 560.64,
       "cash": 494.63,
       "buyingPower": 494.63,
-      "optionsValue": 69,
+      "optionsValue": 66,
       "pendingDeposits": 0,
       "positions": [
         {
@@ -42,9 +42,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-10-29T13:55:28.825923Z",
           "hardFloor": null,
-          "lastBid": 0.53,
-          "lastAsk": 0.84,
-          "lastMark": 0.69
+          "lastBid": 0.52,
+          "lastAsk": 0.8,
+          "lastMark": 0.66
         }
       ]
     }
