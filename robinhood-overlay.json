@@ -1,1 +1,117 @@
-{"capturedAt": "2026-11-06T14:49:08Z", "note": "Live Robinhood overlay. This desk never places orders.", "pendingOrders": [{"account": "individual", "symbol": "SOFI", "right": "call", "strike": 16, "expiration": "2026-11-20", "side": "sell", "quantity": 1, "limit": 1.3, "state": "confirmed"}], "accounts": [{"id": "agentic", "label": "Agentic", "accountNumberMasked": "\u2022\u2022\u2022\u20229327", "tradable": true, "analysisOnly": false, "totalValue": 29.1, "cash": 29.1, "buyingPower": 29.1, "optionsValue": 0, "pendingDeposits": 0, "positions": []}, {"id": "individual", "label": "Individual", "accountNumberMasked": "\u2022\u2022\u2022\u20223364", "tradable": false, "analysisOnly": true, "totalValue": 207.39, "cash": 11.38, "buyingPower": 11.38, "optionsValue": 196, "pendingDeposits": 0, "positions": [{"optionId": "9a060e50-57b1-41d3-bd72-016f6e98ce2a", "symbol": "SOFI", "right": "call", "strike": 16.0, "expiration": "2026-11-20", "quantity": 1, "side": "long", "cost": 0.88, "multiplier": 100, "pendingSell": 1, "pendingSellLimit": 1.3, "openedAt": "2026-11-05T15:04:13.751833Z", "hardFloor": null, "lastBid": 1.0, "lastAsk": 1.02, "lastMark": 1.01}, {"optionId": "716a6d79-1b55-4125-8b66-dff3da869bea", "symbol": "DRAM", "right": "call", "strike": 47.0, "expiration": "2026-11-13", "quantity": 3, "side": "long", "cost": 1.3467, "multiplier": 100, "pendingSell": 0, "pendingSellLimit": null, "openedAt": "2026-11-04T15:19:30.920558Z", "hardFloor": null, "lastBid": 0.19, "lastAsk": 0.2, "lastMark": 0.195}, {"optionId": "fbfc7b4c-cc77-4714-8938-822d210d42e4", "symbol": "MP", "right": "call", "strike": 41.5, "expiration": "2026-11-13", "quantity": 1, "side": "long", "cost": 2.52, "multiplier": 100, "pendingSell": 0, "pendingSellLimit": null, "openedAt": "2026-10-29T13:55:28.825923Z", "hardFloor": null, "lastBid": 0.02, "lastAsk": 0.75, "lastMark": 0.385}]}]}
+{
+  "capturedAt": "2026-11-06T19:33:41Z",
+  "note": "Live Robinhood overlay. This desk never places orders.",
+  "pendingOrders": [
+    {
+      "id": "6aee0c25-bea2-4b81-8eb6-760283cae74c",
+      "account": "individual",
+      "symbol": "SOFI",
+      "right": "call",
+      "strike": 16,
+      "expiration": "2026-11-20",
+      "side": "sell",
+      "quantity": 1,
+      "limit": 1.1,
+      "state": "confirmed",
+      "optionId": "9a060e50-57b1-41d3-bd72-016f6e98ce2a",
+      "createdAt": "2026-11-06T17:19:33.384498Z"
+    },
+    {
+      "id": "6aede999-533f-4fb6-8809-1a0b5fd6b609",
+      "account": "individual",
+      "symbol": "DRAM",
+      "right": "call",
+      "strike": 47,
+      "expiration": "2026-11-13",
+      "side": "sell",
+      "quantity": 3,
+      "limit": 0.35,
+      "state": "confirmed",
+      "optionId": "716a6d79-1b55-4125-8b66-dff3da869bea",
+      "createdAt": "2026-11-06T14:52:09.353981Z"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "agentic",
+      "label": "Agentic",
+      "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
+      "tradable": true,
+      "analysisOnly": false,
+      "totalValue": 29.1,
+      "cash": 29.1,
+      "buyingPower": 29.1,
+      "optionsValue": 0,
+      "pendingDeposits": 0,
+      "positions": []
+    },
+    {
+      "id": "individual",
+      "label": "Individual",
+      "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
+      "tradable": false,
+      "analysisOnly": true,
+      "totalValue": 137.39,
+      "cash": 11.38,
+      "buyingPower": 11.38,
+      "optionsValue": 126.0,
+      "pendingDeposits": 0,
+      "positions": [
+        {
+          "optionId": "9a060e50-57b1-41d3-bd72-016f6e98ce2a",
+          "symbol": "SOFI",
+          "right": "call",
+          "strike": 16.0,
+          "expiration": "2026-11-20",
+          "quantity": 1,
+          "side": "long",
+          "cost": 0.88,
+          "multiplier": 100,
+          "pendingSell": 1,
+          "pendingSellLimit": 1.1,
+          "openedAt": "2026-11-05T15:04:13.751833Z",
+          "hardFloor": null,
+          "lastBid": 0.81,
+          "lastAsk": 0.83,
+          "lastMark": 0.82
+        },
+        {
+          "optionId": "716a6d79-1b55-4125-8b66-dff3da869bea",
+          "symbol": "DRAM",
+          "right": "call",
+          "strike": 47.0,
+          "expiration": "2026-11-13",
+          "quantity": 3,
+          "side": "long",
+          "cost": 1.3467,
+          "multiplier": 100,
+          "pendingSell": 3,
+          "pendingSellLimit": 0.35,
+          "openedAt": "2026-11-04T15:19:30.920558Z",
+          "hardFloor": null,
+          "lastBid": 0.1,
+          "lastAsk": 0.11,
+          "lastMark": 0.105
+        },
+        {
+          "optionId": "fbfc7b4c-cc77-4714-8938-822d210d42e4",
+          "symbol": "MP",
+          "right": "call",
+          "strike": 41.5,
+          "expiration": "2026-11-13",
+          "quantity": 1,
+          "side": "long",
+          "cost": 2.52,
+          "multiplier": 100,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
+          "openedAt": "2026-10-29T13:55:28.825923Z",
+          "hardFloor": null,
+          "lastBid": 0.03,
+          "lastAsk": 0.19,
+          "lastMark": 0.11
+        }
+      ]
+    }
+  ]
+}
