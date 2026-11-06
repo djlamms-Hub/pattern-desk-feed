@@ -1,1 +1,26 @@
-{"capturedAt": "2026-11-06T14:49:08Z", "note": "Live Tradier overlay. Display only. This desk never places orders.", "accounts": [{"id": "tradier", "label": "Tradier", "broker": "tradier", "accountNumberMasked": "\u2022\u2022\u2022\u20228958", "tradable": false, "analysisOnly": true, "totalValue": 44.04, "positions": [{"symbol": "MARA", "right": "call", "strike": 6.5, "expiration": "2026-11-20", "quantity": 1, "side": "long", "cost": 0.55, "multiplier": 100}]}]}
+{
+  "capturedAt": "2026-11-06T15:04:28Z",
+  "note": "Live Tradier overlay. Display only. This desk never places orders.",
+  "accounts": [
+    {
+      "id": "tradier",
+      "label": "Tradier",
+      "broker": "tradier",
+      "accountNumberMasked": "••••8958",
+      "tradable": false,
+      "analysisOnly": true,
+      "positions": [
+        {
+          "symbol": "MARA",
+          "right": "call",
+          "strike": 6.5,
+          "expiration": "2026-11-20",
+          "quantity": 1,
+          "side": "long",
+          "cost": 0.55,
+          "multiplier": 100
+        }
+      ]
+    }
+  ]
+}
