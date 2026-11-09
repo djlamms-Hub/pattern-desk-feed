@@ -1,7 +1,22 @@
 {
-  "capturedAt": "2026-11-09T15:15:59Z",
+  "capturedAt": "2026-11-09T15:44:28Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
-  "pendingOrders": [],
+  "pendingOrders": [
+    {
+      "id": "6af1ea00-8722-4acf-9cf3-4c339b715e4e",
+      "account": "individual",
+      "symbol": "WMT",
+      "right": "call",
+      "strike": 125,
+      "expiration": "2026-11-13",
+      "side": "buy",
+      "quantity": 1,
+      "limit": 1.3,
+      "state": "confirmed",
+      "optionId": "89fd7b75-9667-4e46-8bd0-39f89dada930",
+      "createdAt": "2026-11-09T15:42:56.271549Z"
+    }
+  ],
   "accounts": [
     {
       "id": "agentic",
@@ -24,7 +39,7 @@
       "analysisOnly": true,
       "totalValue": 175.16,
       "cash": 175.15,
-      "buyingPower": 175.15,
+      "buyingPower": 45.11,
       "optionsValue": 0,
       "pendingDeposits": 0,
       "positions": []
