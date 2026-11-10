@@ -1,7 +1,22 @@
 {
-  "capturedAt": "2026-11-10T16:13:28Z",
+  "capturedAt": "2026-11-10T16:35:59Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
-  "pendingOrders": [],
+  "pendingOrders": [
+    {
+      "id": "6af3455f-e1aa-4cba-a6ca-e8e4b83129aa",
+      "account": "individual",
+      "symbol": "SMCI",
+      "right": "call",
+      "strike": 29,
+      "expiration": "2026-11-20",
+      "side": "buy",
+      "quantity": 1,
+      "limit": 1.15,
+      "state": "confirmed",
+      "optionId": "0397f218-7f41-4758-93d2-d246c45072b7",
+      "createdAt": "2026-11-10T16:25:03.851626Z"
+    }
+  ],
   "accounts": [
     {
       "id": "agentic",
@@ -24,7 +39,7 @@
       "analysisOnly": true,
       "totalValue": 207.07,
       "cash": 207.06,
-      "buyingPower": 207.06,
+      "buyingPower": 92.02,
       "optionsValue": 0,
       "pendingDeposits": 0,
       "positions": []
