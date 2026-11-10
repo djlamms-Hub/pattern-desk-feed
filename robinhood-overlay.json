@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-10T20:36:44Z",
+  "capturedAt": "2026-11-10T21:07:16Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "pendingOrders": [
     {
@@ -37,28 +37,12 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 209.99,
-      "cash": 17.98,
-      "buyingPower": 17.98,
-      "optionsValue": 192,
+      "totalValue": 227.94,
+      "cash": 110.93,
+      "buyingPower": 110.93,
+      "optionsValue": 117,
       "pendingDeposits": 0,
       "positions": [
-        {
-          "optionId": "424b4548-d3c0-4ef4-93d1-ba5c967113e3",
-          "symbol": "SOFI",
-          "right": "call",
-          "strike": 16.0,
-          "expiration": "2026-11-27",
-          "quantity": 1,
-          "side": "long",
-          "cost": 0.74,
-          "multiplier": 100,
-          "openedAt": "2026-11-10T18:09:11.233073Z",
-          "hardFloor": null,
-          "lastBid": 0.8,
-          "lastAsk": 0.84,
-          "lastMark": 0.82
-        },
         {
           "optionId": "0397f218-7f41-4758-93d2-d246c45072b7",
           "symbol": "SMCI",
@@ -73,9 +57,9 @@
           "pendingSellLimit": 1.45,
           "openedAt": "2026-11-10T16:25:03.927167Z",
           "hardFloor": null,
-          "lastBid": 1.05,
-          "lastAsk": 1.12,
-          "lastMark": 1.085
+          "lastBid": 1.07,
+          "lastAsk": 1.26,
+          "lastMark": 1.165
         }
       ]
     }
