@@ -1,20 +1,20 @@
 {
-  "capturedAt": "2026-11-10T16:35:59Z",
+  "capturedAt": "2026-11-10T17:07:22Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "pendingOrders": [
     {
-      "id": "6af3455f-e1aa-4cba-a6ca-e8e4b83129aa",
+      "id": "6af34996-108b-442e-b52e-641f444e0c52",
       "account": "individual",
       "symbol": "SMCI",
       "right": "call",
       "strike": 29,
       "expiration": "2026-11-20",
-      "side": "buy",
+      "side": "sell",
       "quantity": 1,
-      "limit": 1.15,
+      "limit": 1.45,
       "state": "confirmed",
       "optionId": "0397f218-7f41-4758-93d2-d246c45072b7",
-      "createdAt": "2026-11-10T16:25:03.851626Z"
+      "createdAt": "2026-11-10T16:43:02.341523Z"
     }
   ],
   "accounts": [
@@ -37,12 +37,31 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 207.07,
-      "cash": 207.06,
+      "totalValue": 193.03,
+      "cash": 92.02,
       "buyingPower": 92.02,
-      "optionsValue": 0,
+      "optionsValue": 101,
       "pendingDeposits": 0,
-      "positions": []
+      "positions": [
+        {
+          "optionId": "0397f218-7f41-4758-93d2-d246c45072b7",
+          "symbol": "SMCI",
+          "right": "call",
+          "strike": 29.0,
+          "expiration": "2026-11-20",
+          "quantity": 1,
+          "side": "long",
+          "cost": 1.15,
+          "multiplier": 100,
+          "pendingSell": 1,
+          "pendingSellLimit": 1.45,
+          "openedAt": "2026-11-10T16:25:03.927167Z",
+          "hardFloor": null,
+          "lastBid": 1.0,
+          "lastAsk": 1.02,
+          "lastMark": 1.01
+        }
+      ]
     }
   ]
 }
