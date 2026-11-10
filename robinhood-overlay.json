@@ -1,20 +1,20 @@
 {
-  "capturedAt": "2026-11-10T18:07:22Z",
+  "capturedAt": "2026-11-10T18:40:07Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "pendingOrders": [
     {
-      "id": "6af35cfc-669d-4df1-b36b-5a399ad3692f",
+      "id": "6af3637c-81f5-45c7-8ad9-b97e8b7c89e7",
       "account": "individual",
-      "symbol": "SOUN",
+      "symbol": "SOFI",
       "right": "call",
-      "strike": 4,
-      "expiration": "2026-12-18",
+      "strike": 16,
+      "expiration": "2026-11-27",
       "side": "buy",
-      "quantity": 2,
-      "limit": 0.25,
+      "quantity": 1,
+      "limit": 0.74,
       "state": "confirmed",
-      "optionId": "392733cb-b277-47af-a487-4fe9014fe3f0",
-      "createdAt": "2026-11-10T18:05:48.273754Z"
+      "optionId": "424b4548-d3c0-4ef4-93d1-ba5c967113e3",
+      "createdAt": "2026-11-10T18:33:32.896471Z"
     },
     {
       "id": "6af34996-108b-442e-b52e-641f444e0c52",
@@ -35,7 +35,7 @@
     {
       "id": "agentic",
       "label": "Agentic",
-      "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
+      "accountNumberMasked": "••••9327",
       "tradable": true,
       "analysisOnly": false,
       "totalValue": 29.1,
@@ -48,13 +48,13 @@
     {
       "id": "individual",
       "label": "Individual",
-      "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
+      "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 194.03,
+      "totalValue": 197.03,
       "cash": 92.02,
-      "buyingPower": 41.94,
-      "optionsValue": 102,
+      "buyingPower": 17.98,
+      "optionsValue": 105,
       "pendingDeposits": 0,
       "positions": [
         {
@@ -71,9 +71,9 @@
           "pendingSellLimit": 1.45,
           "openedAt": "2026-11-10T16:25:03.927167Z",
           "hardFloor": null,
-          "lastBid": 1.01,
-          "lastAsk": 1.04,
-          "lastMark": 1.03
+          "lastBid": 1.02,
+          "lastAsk": 1.06,
+          "lastMark": 1.04
         }
       ]
     }
