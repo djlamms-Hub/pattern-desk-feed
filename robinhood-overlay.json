@@ -1,21 +1,7 @@
 {
-  "capturedAt": "2026-11-11T17:36:57Z",
+  "capturedAt": "2026-11-11T18:15:35Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "pendingOrders": [
-    {
-      "id": "6af4a4a5-4695-4ed8-b83e-98ad5ea33a47",
-      "account": "individual",
-      "symbol": "IWM",
-      "right": "call",
-      "strike": 285,
-      "expiration": "2026-11-16",
-      "side": "sell",
-      "quantity": 1,
-      "limit": 1.3,
-      "state": "confirmed",
-      "optionId": "cc644ae1-ccea-4c91-91ae-810b3efa33c0",
-      "createdAt": "2026-11-11T17:23:49.520253Z"
-    },
     {
       "id": "6af4885e-7ba6-4766-a8fd-342914acb03e",
       "account": "individual",
@@ -51,30 +37,12 @@
       "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 362.72,
-      "cash": 203.71,
-      "buyingPower": 203.71,
-      "optionsValue": 159,
+      "totalValue": 380.67,
+      "cash": 333.66,
+      "buyingPower": 333.66,
+      "optionsValue": 47,
       "pendingDeposits": 0,
       "positions": [
-        {
-          "optionId": "cc644ae1-ccea-4c91-91ae-810b3efa33c0",
-          "symbol": "IWM",
-          "right": "call",
-          "strike": 285.0,
-          "expiration": "2026-11-16",
-          "quantity": 1,
-          "side": "long",
-          "cost": 0.875,
-          "multiplier": 100,
-          "pendingSell": 1,
-          "pendingSellLimit": 1.3,
-          "openedAt": "2026-11-11T14:47:34.390046Z",
-          "hardFloor": null,
-          "lastBid": 1.19,
-          "lastAsk": 1.22,
-          "lastMark": 1.21
-        },
         {
           "optionId": "1c8b9036-8fa2-4c94-a880-48caf2382c20",
           "symbol": "LYFT",
@@ -89,9 +57,9 @@
           "pendingSellLimit": 0.54,
           "openedAt": "2026-11-11T15:15:43.224094Z",
           "hardFloor": null,
-          "lastBid": 0.33,
-          "lastAsk": 0.42,
-          "lastMark": 0.38
+          "lastBid": 0.43,
+          "lastAsk": 0.49,
+          "lastMark": 0.46
         }
       ]
     }
