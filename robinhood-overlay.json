@@ -1,27 +1,12 @@
 {
-  "capturedAt": "2026-11-11T18:38:13Z",
+  "capturedAt": "2026-11-11T19:07:05Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
-  "pendingOrders": [
-    {
-      "id": "6af4885e-7ba6-4766-a8fd-342914acb03e",
-      "account": "individual",
-      "symbol": "LYFT",
-      "right": "call",
-      "strike": 17,
-      "expiration": "2026-11-13",
-      "side": "sell",
-      "quantity": 1,
-      "limit": 0.54,
-      "state": "confirmed",
-      "optionId": "1c8b9036-8fa2-4c94-a880-48caf2382c20",
-      "createdAt": "2026-11-11T15:23:10.786925Z"
-    }
-  ],
+  "pendingOrders": [],
   "accounts": [
     {
       "id": "agentic",
       "label": "Agentic",
-      "accountNumberMasked": "\u2022\u2022\u2022\u20229327",
+      "accountNumberMasked": "••••9327",
       "tradable": true,
       "analysisOnly": false,
       "totalValue": 29.1,
@@ -34,34 +19,15 @@
     {
       "id": "individual",
       "label": "Individual",
-      "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
+      "accountNumberMasked": "••••3364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 386.67,
-      "cash": 333.66,
-      "buyingPower": 333.66,
-      "optionsValue": 53,
+      "totalValue": 387.62,
+      "cash": 387.61,
+      "buyingPower": 387.61,
+      "optionsValue": 0,
       "pendingDeposits": 0,
-      "positions": [
-        {
-          "optionId": "1c8b9036-8fa2-4c94-a880-48caf2382c20",
-          "symbol": "LYFT",
-          "right": "call",
-          "strike": 17.0,
-          "expiration": "2026-11-13",
-          "quantity": 1,
-          "side": "long",
-          "cost": 0.44,
-          "multiplier": 100,
-          "pendingSell": 1,
-          "pendingSellLimit": 0.54,
-          "openedAt": "2026-11-11T15:15:43.224094Z",
-          "hardFloor": null,
-          "lastBid": 0.52,
-          "lastAsk": 0.54,
-          "lastMark": 0.53
-        }
-      ]
+      "positions": []
     }
   ]
 }
