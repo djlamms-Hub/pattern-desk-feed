@@ -1,22 +1,7 @@
 {
-  "capturedAt": "2026-11-12T20:37:20Z",
+  "capturedAt": "2026-11-12T21:03:02Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
-  "pendingOrders": [
-    {
-      "id": "6af5e4f5-fb74-4ec5-b35a-9bf1d992d122",
-      "account": "individual",
-      "symbol": "AI",
-      "right": "call",
-      "strike": 12,
-      "expiration": "2026-11-20",
-      "side": "sell",
-      "quantity": 2,
-      "limit": 0.53,
-      "state": "confirmed",
-      "optionId": "59a986d0-3bea-4c55-9439-e4211c3c8585",
-      "createdAt": "2026-11-12T16:10:29.370131Z"
-    }
-  ],
+  "pendingOrders": [],
   "accounts": [
     {
       "id": "agentic",
@@ -37,10 +22,10 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 345.42,
-      "cash": 70.41,
-      "buyingPower": 70.41,
-      "optionsValue": 275,
+      "totalValue": 344.29,
+      "cash": 152.28,
+      "buyingPower": 152.28,
+      "optionsValue": 192,
       "pendingDeposits": 0,
       "positions": [
         {
@@ -57,27 +42,9 @@
           "pendingSellLimit": null,
           "openedAt": "2026-11-12T16:27:51.061688Z",
           "hardFloor": null,
-          "lastBid": 1.32,
-          "lastAsk": 1.41,
-          "lastMark": 1.365
-        },
-        {
-          "optionId": "59a986d0-3bea-4c55-9439-e4211c3c8585",
-          "symbol": "AI",
-          "right": "call",
-          "strike": 12.0,
-          "expiration": "2026-11-20",
-          "quantity": 2,
-          "side": "long",
-          "cost": 0.35,
-          "multiplier": 100,
-          "pendingSell": 2,
-          "pendingSellLimit": 0.53,
-          "openedAt": "2026-11-12T15:02:30.020518Z",
-          "hardFloor": null,
-          "lastBid": 0.47,
-          "lastAsk": 0.52,
-          "lastMark": 0.495
+          "lastBid": 1.31,
+          "lastAsk": 1.38,
+          "lastMark": 1.345
         },
         {
           "optionId": "e3754b36-95d1-4d37-b36d-531992a6dcaa",
@@ -85,9 +52,9 @@
           "right": "call",
           "strike": 16.5,
           "expiration": "2026-11-20",
-          "quantity": 2,
+          "quantity": 3,
           "side": "long",
-          "cost": 0.43,
+          "cost": 0.3467,
           "multiplier": 100,
           "pendingSell": 0,
           "pendingSellLimit": null,
