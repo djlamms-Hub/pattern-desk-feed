@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "as_of_utc": "2026-11-12T14:58:47Z",
-  "as_of_et": "2026-11-12T09:58:47-05:00",
+  "as_of_utc": "2026-11-12T15:20:27Z",
+  "as_of_et": "2026-11-12T10:20:27-05:00",
   "session_date": "2026-11-12",
   "source": "yfinance 5m RTH via scripts/discovery/intraday_bars.py",
   "source_ok": false,
