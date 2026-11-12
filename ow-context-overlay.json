@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "as_of_utc": "2026-11-12T14:52:32Z",
-  "as_of_et": "2026-11-12T09:52:32-05:00",
+  "as_of_utc": "2026-11-12T14:58:47Z",
+  "as_of_et": "2026-11-12T09:58:47-05:00",
   "session_date": "2026-11-12",
   "source": "yfinance 5m RTH via scripts/discovery/intraday_bars.py",
-  "source_ok": true,
-  "error": null,
+  "source_ok": false,
+  "error": "no Open Watch symbols on the feed tip card",
   "bar_interval": "5m",
   "symbols": {
     "ANET": {
