@@ -1,22 +1,7 @@
 {
-  "capturedAt": "2026-11-19T20:32:51Z",
+  "capturedAt": "2026-11-19T21:33:54Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
-  "pendingOrders": [
-    {
-      "id": "6aff43ef-88ba-4b4c-abaf-ebb167d9ef68",
-      "account": "individual",
-      "symbol": "MARA",
-      "right": "call",
-      "strike": 7,
-      "expiration": "2026-12-18",
-      "side": "sell",
-      "quantity": 2,
-      "limit": 0.64,
-      "state": "confirmed",
-      "optionId": "c45b45ff-82af-438b-9a14-3dd8dc0c4b90",
-      "createdAt": "2026-11-19T18:46:07.563715Z"
-    }
-  ],
+  "pendingOrders": [],
   "accounts": [
     {
       "id": "agentic",
@@ -71,13 +56,13 @@
           "side": "long",
           "cost": 0.505,
           "multiplier": 100,
-          "pendingSell": 2,
-          "pendingSellLimit": 0.64,
+          "pendingSell": 0,
+          "pendingSellLimit": null,
           "openedAt": "2026-11-19T15:27:35.119368Z",
           "hardFloor": null,
-          "lastBid": 0.45,
-          "lastAsk": 0.46,
-          "lastMark": 0.455
+          "lastBid": 0.44,
+          "lastAsk": 0.45,
+          "lastMark": 0.445
         }
       ]
     }

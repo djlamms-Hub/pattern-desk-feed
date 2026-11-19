@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-19T21:03:43Z",
+  "capturedAt": "2026-11-19T21:33:54Z",
   "note": "Live Tradier overlay. Display only. This desk never places orders.",
   "accounts": [
     {
@@ -10,7 +10,7 @@
       "tradable": false,
       "analysisOnly": true,
       "cash": 12.26,
-      "buyingPower": 12.26,
+      "buyingPower": 0.82,
       "totalValue": 23.26,
       "optionsValue": 11,
       "positions": [
@@ -23,10 +23,10 @@
           "side": "long",
           "cost": 0.75,
           "multiplier": 100,
-          "quoteAt": "2026-11-19T20:59:59Z",
+          "quoteAt": "2026-11-19T21:33:54Z",
           "lastBid": 0.11,
           "lastAsk": 0.12,
-          "lastMark": 0.115
+          "lastMark": 0.11
         }
       ]
     }
