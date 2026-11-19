@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-19T14:32:39Z",
+  "capturedAt": "2026-11-19T14:47:46Z",
   "note": "Live Tradier overlay. Display only. This desk never places orders.",
   "accounts": [
     {
@@ -11,8 +11,8 @@
       "analysisOnly": true,
       "cash": 12.26,
       "buyingPower": 12.26,
-      "totalValue": 33.26,
-      "optionsValue": 21,
+      "totalValue": 31.26,
+      "optionsValue": 19,
       "positions": [
         {
           "symbol": "SOFI",
@@ -23,10 +23,10 @@
           "side": "long",
           "cost": 0.75,
           "multiplier": 100,
-          "quoteAt": "2026-11-19T14:32:34Z",
+          "quoteAt": "2026-11-19T14:47:42Z",
           "lastBid": 0.18,
-          "lastAsk": 0.24,
-          "lastMark": 0.21
+          "lastAsk": 0.2,
+          "lastMark": 0.19
         }
       ]
     }
