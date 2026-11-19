@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-19T16:04:22Z",
+  "capturedAt": "2026-11-19T16:47:37Z",
   "note": "Live Tradier overlay. Display only. This desk never places orders.",
   "accounts": [
     {
@@ -23,7 +23,7 @@
           "side": "long",
           "cost": 0.75,
           "multiplier": 100,
-          "quoteAt": "2026-11-19T16:04:20Z",
+          "quoteAt": "2026-11-19T16:47:31Z",
           "lastBid": 0.14,
           "lastAsk": 0.15,
           "lastMark": 0.145
