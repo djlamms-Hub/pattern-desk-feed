@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-23T22:13:33Z",
+  "capturedAt": "2026-11-24T14:32:39Z",
   "note": "Live Tradier overlay. Display only. This desk never places orders.",
   "accounts": [
     {
@@ -9,9 +9,9 @@
       "accountNumberMasked": "••••8958",
       "tradable": false,
       "analysisOnly": true,
-      "cash": 19.82,
-      "buyingPower": 19.82,
-      "totalValue": 19.82,
+      "cash": 19.79,
+      "buyingPower": 19.79,
+      "totalValue": 19.79,
       "optionsValue": 0,
       "positions": []
     }
