@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-19T21:33:54Z",
+  "capturedAt": "2026-11-24T15:33:57Z",
   "note": "Live Robinhood overlay. This desk never places orders.",
   "pendingOrders": [],
   "accounts": [
@@ -22,47 +22,29 @@
       "accountNumberMasked": "\u2022\u2022\u2022\u20223364",
       "tradable": false,
       "analysisOnly": true,
-      "totalValue": 174.74,
-      "cash": 35.74,
-      "buyingPower": 35.74,
-      "optionsValue": 139,
+      "totalValue": 147.26,
+      "cash": 19.26,
+      "buyingPower": 19.26,
+      "optionsValue": 128,
       "pendingDeposits": 0,
       "positions": [
         {
-          "optionId": "5f7eb5b8-d851-4e40-bf51-60a1cdb17a14",
-          "symbol": "AI",
-          "right": "call",
-          "strike": 10.5,
-          "expiration": "2026-12-04",
-          "quantity": 1,
-          "side": "long",
-          "cost": 0.5,
-          "multiplier": 100,
-          "pendingSell": 0,
-          "pendingSellLimit": null,
-          "openedAt": "2026-11-19T19:30:25.239507Z",
-          "hardFloor": null,
-          "lastBid": 0.42,
-          "lastAsk": 0.56,
-          "lastMark": 0.49
-        },
-        {
-          "optionId": "c45b45ff-82af-438b-9a14-3dd8dc0c4b90",
+          "optionId": "0894a198-c638-4261-b91b-011a0824693f",
           "symbol": "MARA",
           "right": "call",
-          "strike": 7.0,
+          "strike": 6,
           "expiration": "2026-12-18",
-          "quantity": 2,
+          "quantity": 4,
           "side": "long",
-          "cost": 0.505,
+          "cost": 0.3525,
           "multiplier": 100,
           "pendingSell": 0,
           "pendingSellLimit": null,
-          "openedAt": "2026-11-19T15:27:35.119368Z",
+          "openedAt": "2026-11-24T14:32:31.295713Z",
           "hardFloor": null,
-          "lastBid": 0.44,
-          "lastAsk": 0.45,
-          "lastMark": 0.445
+          "lastBid": 0.31,
+          "lastAsk": 0.32,
+          "lastMark": 0.315
         }
       ]
     }
