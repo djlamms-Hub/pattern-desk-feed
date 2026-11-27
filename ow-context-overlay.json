@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "as_of_utc": "2026-11-27T18:36:12Z",
-  "as_of_et": "2026-11-27T13:36:12-05:00",
+  "as_of_utc": "2026-11-27T18:42:16Z",
+  "as_of_et": "2026-11-27T13:42:16-05:00",
   "session_date": "2026-11-27",
   "source": "yfinance 5m RTH via scripts/discovery/intraday_bars.py",
   "source_ok": true,
@@ -65,18 +65,18 @@
       "bars_used": 40
     },
     "AI": {
-      "last": 10.22,
-      "vwap": 10.2,
+      "last": 10.21,
+      "vwap": 10.1965,
       "vwap_side": "above",
-      "vwap_reclaim_time": "12:55",
-      "vwap_loss_time": "12:45",
+      "vwap_reclaim_time": "12:40",
+      "vwap_loss_time": "12:30",
       "or_high": 10.34,
       "or_low": 10.09,
       "or_break": "inside",
-      "session_return_pct": 2.2,
-      "rs_vs_qqq": -0.455,
-      "rs_vs_spy": null,
-      "bars_used": 42
+      "session_return_pct": 2.1,
+      "rs_vs_qqq": 0.183,
+      "rs_vs_spy": 0.814,
+      "bars_used": 40
     },
     "IBIT": {
       "last": 33.86,
