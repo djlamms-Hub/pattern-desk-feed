@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-27T16:03:49Z",
+  "capturedAt": "2026-11-27T16:19:41Z",
   "note": "Live Tradier overlay. Display only. This desk never places orders.",
   "accounts": [
     {
@@ -11,8 +11,8 @@
       "analysisOnly": true,
       "cash": 4.33,
       "buyingPower": 3.89,
-      "totalValue": 21.83,
-      "optionsValue": 17.5,
+      "totalValue": 19.83,
+      "optionsValue": 15.5,
       "positions": [
         {
           "symbol": "MARA",
@@ -23,10 +23,10 @@
           "side": "long",
           "cost": 0.15,
           "multiplier": 100,
-          "quoteAt": "2026-11-27T16:03:44Z",
-          "lastBid": 0.17,
-          "lastAsk": 0.18,
-          "lastMark": 0.175
+          "quoteAt": "2026-11-27T16:19:39Z",
+          "lastBid": 0.15,
+          "lastAsk": 0.16,
+          "lastMark": 0.155
         }
       ]
     }
