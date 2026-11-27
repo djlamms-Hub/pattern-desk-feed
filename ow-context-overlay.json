@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "as_of_utc": "2026-11-27T18:08:17Z",
-  "as_of_et": "2026-11-27T13:08:17-05:00",
+  "as_of_utc": "2026-11-27T18:19:17Z",
+  "as_of_et": "2026-11-27T13:19:17-05:00",
   "session_date": "2026-11-27",
   "source": "yfinance 5m RTH via scripts/discovery/intraday_bars.py",
   "source_ok": true,
@@ -9,31 +9,31 @@
   "bar_interval": "5m",
   "symbols": {
     "SLV": {
-      "last": 39.4,
-      "vwap": 39.3161,
-      "vwap_side": "above",
-      "vwap_reclaim_time": "12:55",
+      "last": 39.025,
+      "vwap": 39.3247,
+      "vwap_side": "below",
+      "vwap_reclaim_time": "09:50",
       "vwap_loss_time": "09:55",
       "or_high": 39.655,
       "or_low": 39.1,
-      "or_break": "inside",
-      "session_return_pct": 6.199,
-      "rs_vs_qqq": 3.545,
-      "rs_vs_spy": 4.521,
-      "bars_used": 42
+      "or_break": "below",
+      "session_return_pct": 5.189,
+      "rs_vs_qqq": 3.272,
+      "rs_vs_spy": 3.902,
+      "bars_used": 40
     },
     "SE": {
-      "last": 68.85,
-      "vwap": 69.1115,
-      "vwap_side": "below",
+      "last": 69.11,
+      "vwap": 69.091,
+      "vwap_side": "at",
       "vwap_reclaim_time": "12:10",
       "vwap_loss_time": "12:40",
       "or_high": 69.95,
       "or_low": 68.55,
       "or_break": "inside",
-      "session_return_pct": 2.946,
-      "rs_vs_qqq": 0.291,
-      "rs_vs_spy": 1.267,
+      "session_return_pct": 3.334,
+      "rs_vs_qqq": 0.679,
+      "rs_vs_spy": null,
       "bars_used": 42
     },
     "MARA": {
@@ -47,35 +47,35 @@
       "or_break": "inside",
       "session_return_pct": 3.229,
       "rs_vs_qqq": 0.574,
-      "rs_vs_spy": 1.55,
+      "rs_vs_spy": null,
       "bars_used": 42
     },
     "IONQ": {
-      "last": 24.99,
-      "vwap": 25.0184,
+      "last": 24.815,
+      "vwap": 25.0236,
       "vwap_side": "below",
       "vwap_reclaim_time": "11:30",
       "vwap_loss_time": "12:30",
       "or_high": 24.9454,
       "or_low": 24.16,
-      "or_break": "above",
-      "session_return_pct": 6.16,
-      "rs_vs_qqq": 3.505,
-      "rs_vs_spy": 4.481,
-      "bars_used": 42
+      "or_break": "inside",
+      "session_return_pct": 5.416,
+      "rs_vs_qqq": 3.5,
+      "rs_vs_spy": 4.13,
+      "bars_used": 40
     },
     "AI": {
-      "last": 10.195,
-      "vwap": 10.1991,
-      "vwap_side": "at",
-      "vwap_reclaim_time": "12:40",
+      "last": 10.22,
+      "vwap": 10.2012,
+      "vwap_side": "above",
+      "vwap_reclaim_time": "12:55",
       "vwap_loss_time": "12:45",
       "or_high": 10.34,
       "or_low": 10.09,
       "or_break": "inside",
-      "session_return_pct": 1.95,
-      "rs_vs_qqq": -0.705,
-      "rs_vs_spy": 0.271,
+      "session_return_pct": 2.2,
+      "rs_vs_qqq": -0.455,
+      "rs_vs_spy": null,
       "bars_used": 42
     },
     "IBIT": {
@@ -89,22 +89,22 @@
       "or_break": "inside",
       "session_return_pct": -0.616,
       "rs_vs_qqq": -3.271,
-      "rs_vs_spy": -2.295,
+      "rs_vs_spy": null,
       "bars_used": 42
     },
     "ACHR": {
-      "last": 3.2243,
-      "vwap": 3.1978,
-      "vwap_side": "above",
+      "last": 3.195,
+      "vwap": 3.196,
+      "vwap_side": "at",
       "vwap_reclaim_time": "10:00",
       "vwap_loss_time": null,
       "or_high": 3.23,
       "or_low": 3.11,
       "or_break": "inside",
-      "session_return_pct": 6.062,
-      "rs_vs_qqq": 3.408,
-      "rs_vs_spy": 4.384,
-      "bars_used": 42
+      "session_return_pct": 5.099,
+      "rs_vs_qqq": 3.182,
+      "rs_vs_spy": 3.812,
+      "bars_used": 40
     },
     "AAPL": {
       "last": 358.7,
@@ -117,7 +117,7 @@
       "or_break": "inside",
       "session_return_pct": 0.877,
       "rs_vs_qqq": -1.777,
-      "rs_vs_spy": -0.801,
+      "rs_vs_spy": null,
       "bars_used": 42
     },
     "FTNT": {
@@ -131,7 +131,7 @@
       "or_break": "above",
       "session_return_pct": 3.468,
       "rs_vs_qqq": 0.813,
-      "rs_vs_spy": 1.789,
+      "rs_vs_spy": null,
       "bars_used": 42
     },
     "GOOGL": {
@@ -145,7 +145,7 @@
       "or_break": "inside",
       "session_return_pct": 0.615,
       "rs_vs_qqq": -2.04,
-      "rs_vs_spy": -1.063,
+      "rs_vs_spy": null,
       "bars_used": 42
     },
     "QQQ": {
@@ -159,22 +159,22 @@
       "or_break": "above",
       "session_return_pct": 2.655,
       "rs_vs_qqq": 0.0,
-      "rs_vs_spy": 0.976,
+      "rs_vs_spy": null,
       "bars_used": 42
     },
     "SPY": {
-      "last": 728.73,
-      "vwap": 724.6506,
+      "last": 725.92,
+      "vwap": 724.3616,
       "vwap_side": "above",
       "vwap_reclaim_time": "10:20",
       "vwap_loss_time": null,
       "or_high": 726.09,
       "or_low": 720.92,
-      "or_break": "above",
-      "session_return_pct": 1.679,
-      "rs_vs_qqq": -0.976,
+      "or_break": "inside",
+      "session_return_pct": 1.286,
+      "rs_vs_qqq": -0.63,
       "rs_vs_spy": 0.0,
-      "bars_used": 42
+      "bars_used": 40
     }
   }
 }
